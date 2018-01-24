@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-23 15:31-0500\n"
+"PO-Revision-Date: 2018-01-24 13:51-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: pustakalaya\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /master/src/locale/ne/LC_MESSAGES/django.po\n"
+"X-Crowdin-File: /master/src/locale/vi/LC_MESSAGES/django.po\n"
 
 #: pustakalaya/forms.py:8
 msgid "Name"
@@ -67,7 +67,6 @@ msgid "Audio"
 msgstr ""
 
 #: pustakalaya_apps/audio/models.py:29
-#| msgid "Audio type"
 msgid "Audio types"
 msgstr ""
 
@@ -539,7 +538,6 @@ msgid "Australian English"
 msgstr ""
 
 #: pustakalaya_apps/core/constants.py:22
-#| msgid "English"
 msgid "British English"
 msgstr ""
 
@@ -728,7 +726,6 @@ msgid "Punjabi"
 msgstr ""
 
 #: pustakalaya_apps/core/constants.py:70
-#| msgid "English"
 msgid "Polish"
 msgstr ""
 
@@ -1151,7 +1148,6 @@ msgid "Phone no"
 msgstr ""
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:161
-#| msgid "Audio type"
 msgid "Media type"
 msgstr ""
 
@@ -1268,7 +1264,6 @@ msgid "Developed By"
 msgstr ""
 
 #: templates/_partials/footer.html:32
-#| msgid "Nepali"
 msgid "OLE Nepal"
 msgstr ""
 
@@ -2152,7 +2147,4 @@ msgstr ""
 #: templates/static_pages/sign_up.html:84
 msgid "Create Pustakalaya Account"
 msgstr ""
-
-#~ msgid "Audio Book"
-#~ msgstr "अडियो पुस्तक"
 
