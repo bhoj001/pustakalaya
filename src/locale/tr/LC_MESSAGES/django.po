@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-24 09:22-0500\n"
+"PO-Revision-Date: 2018-01-24 09:33-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1584,11 +1584,11 @@ msgstr "Parolanı ayarla"
 
 #: templates/account/signup.html:5
 msgid "Signup"
-msgstr ""
+msgstr "Kaydol"
 
 #: templates/account/signup.html:11 templates/static_pages/sign_up.html:10
 msgid "Create your Pustakalaya Account"
-msgstr ""
+msgstr "Pustakalaya hesabınızı oluşturun"
 
 #: templates/account/signup.html:13
 #, python-format
@@ -1598,28 +1598,28 @@ msgstr ""
 
 #: templates/account/signup.html:24
 msgid "Sign Up"
-msgstr ""
+msgstr "Kaydolmak"
 
 #: templates/account/signup.html:26 templates/static_pages/sign_up.html:90
 msgid "Log in with"
-msgstr ""
+msgstr "Giriş yap"
 
 #: templates/account/signup.html:34 templates/static_pages/sign_up.html:98
 msgid "Already have Pustakalaya account"
-msgstr ""
+msgstr "Zaten Pustakalaya hesabın var"
 
 #: templates/account/signup.html:35 templates/static_pages/sign_up.html:98
 msgid "Log in"
-msgstr ""
+msgstr "Giriş yap"
 
 #: templates/account/signup_closed.html:5
 #: templates/account/signup_closed.html:9
 msgid "Sign Up Closed"
-msgstr ""
+msgstr "Kayıt kapalı"
 
 #: templates/account/signup_closed.html:11
 msgid "We are sorry, but the sign up is currently closed."
-msgstr ""
+msgstr "Üzgünüz ama kayıt kapatıldı."
 
 #: templates/account/snippets/already_logged_in.html:5
 msgid "Note"
@@ -1628,14 +1628,14 @@ msgstr ""
 #: templates/account/snippets/already_logged_in.html:5
 #, python-format
 msgid "you are already logged in as %(user_display)s."
-msgstr ""
+msgstr "zaten giriş yapmışsınız %(user_display)s."
 
 #: templates/account/verification_sent.html:5
 #: templates/account/verification_sent.html:9
 #: templates/account/verified_email_required.html:5
 #: templates/account/verified_email_required.html:9
 msgid "Verify Your E-mail Address"
-msgstr ""
+msgstr "E-posta adresinizi doğrulayın"
 
 #: templates/account/verification_sent.html:11
 msgid "We have sent an e-mail to you for verification. Follow the\n"
