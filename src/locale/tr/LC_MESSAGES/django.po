@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-25 13:51-0500\n"
+"PO-Revision-Date: 2018-01-25 14:01-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -14,52 +14,52 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: pustakalaya\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /master/src/locale/sr/LC_MESSAGES/django.po\n"
+"X-Crowdin-File: /master/src/locale/ru/LC_MESSAGES/django.po\n"
 
 #: pustakalaya/forms.py:8
 msgid "Name"
-msgstr "İsim"
+msgstr ""
 
 #: pustakalaya/forms.py:12
 msgid "Your name"
-msgstr "İsminiz"
+msgstr ""
 
 #: pustakalaya/forms.py:16 pustakalaya/forms.py:20
 msgid "Email"
-msgstr "Eposta"
+msgstr ""
 
 #: pustakalaya/forms.py:25
 msgid "Country"
-msgstr "Ülke"
+msgstr ""
 
 #: pustakalaya/forms.py:31
 msgid "Your country"
-msgstr "Ülkeniz"
+msgstr ""
 
 #: pustakalaya/forms.py:37 pustakalaya_apps/core/abstract_models.py:48
 #: pustakalaya_apps/core/templates/core/author_detail.html:36
 msgid "Address"
-msgstr "Adres"
+msgstr ""
 
 #: pustakalaya/forms.py:43
 msgid "Your Address"
-msgstr "Adresiniz"
+msgstr ""
 
 #: pustakalaya/forms.py:49
 msgid "Suggestion"
-msgstr "Tavsiye"
+msgstr ""
 
 #: pustakalaya/forms.py:54
 msgid "Your Message"
-msgstr "Mesajınız"
+msgstr ""
 
 #: pustakalaya/settings/base.py:239 pustakalaya_apps/core/constants.py:20
 msgid "English"
-msgstr "İngilizce"
+msgstr ""
 
 #: pustakalaya/settings/base.py:240 pustakalaya_apps/core/constants.py:64
 msgid "Nepali"
-msgstr "Nepalce"
+msgstr ""
 
 #: pustakalaya_apps/audio/apps.py:9
 #: pustakalaya_apps/core/abstract_models.py:110
@@ -68,11 +68,11 @@ msgstr "Ses"
 
 #: pustakalaya_apps/audio/models.py:29
 msgid "Audio types"
-msgstr "Ses türleri"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:34
 msgid "Add this audio to these collection"
-msgstr "Bu sesi bu koleksiyona ekleyin"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:43 pustakalaya_apps/video/models.py:115
 msgid "Running time in minutes"
@@ -84,7 +84,7 @@ msgstr ""
 
 #: pustakalaya_apps/audio/models.py:61
 msgid "Audio publisher"
-msgstr "Ses yayıncısı"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:66 pustakalaya_apps/document/models.py:160
 msgid "Select list of keywords"
@@ -92,11 +92,11 @@ msgstr ""
 
 #: pustakalaya_apps/audio/models.py:71
 msgid "Audio Genre"
-msgstr "Ses Türü"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:78 pustakalaya_apps/video/models.py:58
 msgid "Languages"
-msgstr "Diiler"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:88
 msgid "Audio Series / Volume"
@@ -105,49 +105,49 @@ msgstr ""
 #: pustakalaya_apps/audio/models.py:95 pustakalaya_apps/document/models.py:170
 #: pustakalaya_apps/video/models.py:87
 msgid "Sponsor"
-msgstr "Sponsor"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:166 pustakalaya_apps/video/models.py:226
 msgid "Genre name"
-msgstr "Tür adı"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:171 pustakalaya_apps/video/models.py:231
 msgid "Genre description"
-msgstr "Tür açıklaması"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:193 pustakalaya_apps/document/models.py:283
 #: pustakalaya_apps/video/models.py:194
 msgid "File name"
-msgstr "Dosya ismi"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:217 pustakalaya_apps/document/models.py:315
 #: pustakalaya_apps/video/models.py:215
 msgid "Link"
-msgstr "Bağlantı"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:229
 msgid "Rhymes"
-msgstr "Tekerlemeler"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:230
 msgid "Novel"
-msgstr "Roman"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:231
 msgid "Short Story"
-msgstr "Kısa Hikaye"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:232
 msgid "Children Song"
-msgstr "Çocuk Şarkısı"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:236
 msgid "Audio type"
-msgstr "Ses Türü"
+msgstr ""
 
 #: pustakalaya_apps/audio/models.py:241
 msgid "Audio description"
-msgstr "Ses açıklaması"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:87
 msgid "Read by/Voice:"
@@ -157,19 +157,19 @@ msgstr ""
 #: pustakalaya_apps/document/templates/document/document_detail.html:186
 #: pustakalaya_apps/video/templates/video/video_detail.html:103
 msgid "Publisher:"
-msgstr "Yayımcı:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:115
 #: pustakalaya_apps/document/templates/document/document_detail.html:196
 #: pustakalaya_apps/video/templates/video/video_detail.html:112
 msgid "Place of publication:"
-msgstr "Yayın yeri:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:124
 #: pustakalaya_apps/document/templates/document/document_detail.html:207
 #: pustakalaya_apps/video/templates/video/video_detail.html:118
 msgid "publication year:"
-msgstr "yayın yılı:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:130
 msgid "read by:"
@@ -177,73 +177,73 @@ msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:136
 msgid "type:"
-msgstr "tip:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:144
 #: pustakalaya_apps/video/templates/video/video_detail.html:190
 msgid "genre:"
-msgstr "tür:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:150
 msgid "series name:"
-msgstr "seri ismi:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:159
 #: pustakalaya_apps/document/templates/document/document_detail.html:219
 #: pustakalaya_apps/video/templates/video/video_detail.html:125
 msgid "available year:"
-msgstr "kullanılabilir yıl:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:166
 #: pustakalaya_apps/document/templates/document/document_detail.html:228
 #: pustakalaya_apps/video/templates/video/video_detail.html:136
 msgid "keywords:"
-msgstr "anahtar kelimeler:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:178
 #: pustakalaya_apps/document/templates/document/document_detail.html:247
 #: pustakalaya_apps/video/templates/video/video_detail.html:149
 msgid "description:"
-msgstr "açıklama:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:185
 #: pustakalaya_apps/document/templates/document/document_detail.html:256
 #: pustakalaya_apps/video/templates/video/video_detail.html:156
 msgid "License type:"
-msgstr "Lisans türü:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:192
 #: pustakalaya_apps/document/templates/document/document_detail.html:310
 #: pustakalaya_apps/video/templates/video/video_detail.html:197
 msgid "languages"
-msgstr "diiler"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:201
 #: pustakalaya_apps/document/templates/document/document_detail.html:319
 #: pustakalaya_apps/video/templates/video/video_detail.html:206
 msgid "education levels"
-msgstr "eğitim seviyesi"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:212
 #: pustakalaya_apps/document/templates/document/document_detail.html:337
 #: pustakalaya_apps/video/templates/video/video_detail.html:220
 msgid "right:"
-msgstr "hak:"
+msgstr ""
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:222
 #: pustakalaya_apps/document/templates/document/document_detail.html:348
 #: pustakalaya_apps/video/templates/video/video_detail.html:230
 msgid "sponsors:"
-msgstr "sponsorlar:"
+msgstr ""
 
 #: pustakalaya_apps/collection/apps.py:7
 msgid "Categories"
-msgstr "Kategoriler"
+msgstr ""
 
 #: pustakalaya_apps/collection/models.py:18
 #: pustakalaya_apps/community/models.py:10
 msgid "Literature and arts"
-msgstr "Edebiyat ve sanat"
+msgstr ""
 
 #: pustakalaya_apps/collection/models.py:19
 #: pustakalaya_apps/community/models.py:11
@@ -347,7 +347,7 @@ msgstr ""
 #: pustakalaya_apps/core/abstract_models.py:53
 #: pustakalaya_apps/core/templates/core/author_detail.html:39
 msgid "Genre"
-msgstr ""
+msgstr "Tür"
 
 #: pustakalaya_apps/core/abstract_models.py:59
 msgid "Creator image"
@@ -445,37 +445,37 @@ msgstr ""
 #: pustakalaya_apps/core/abstract_models.py:202
 #: pustakalaya_apps/document/models.py:48
 msgid "Yes"
-msgstr "Evet"
+msgstr ""
 
 #: pustakalaya_apps/core/abstract_models.py:193
 #: pustakalaya_apps/core/abstract_models.py:203
 #: pustakalaya_apps/document/models.py:49
 msgid "No"
-msgstr "Hayır"
+msgstr ""
 
 #: pustakalaya_apps/core/abstract_models.py:198
 msgid "published"
-msgstr "yayınlanan"
+msgstr ""
 
 #: pustakalaya_apps/core/abstract_models.py:242
 msgid "Link URL"
-msgstr "Bağlantı URL'si"
+msgstr ""
 
 #: pustakalaya_apps/core/abstract_models.py:247
 msgid "Link Description"
-msgstr "Bağlantı Açıklaması"
+msgstr ""
 
 #: pustakalaya_apps/core/apps.py:7
 msgid "Core Application"
-msgstr "Temel Uygulama"
+msgstr ""
 
 #: pustakalaya_apps/core/constants.py:4
 msgid "Afrikaans"
-msgstr "Güney Afrika dili"
+msgstr ""
 
 #: pustakalaya_apps/core/constants.py:5
 msgid "Arabic"
-msgstr "Arapça"
+msgstr ""
 
 #: pustakalaya_apps/core/constants.py:6
 msgid "Asturian"
@@ -483,7 +483,7 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:7
 msgid "Azerbaijani"
-msgstr "Azeri"
+msgstr ""
 
 #: pustakalaya_apps/core/constants.py:8
 msgid "Bulgarian"
