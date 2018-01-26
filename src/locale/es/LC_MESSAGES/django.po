@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-25 19:00-0500\n"
+"PO-Revision-Date: 2018-01-25 19:10-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -14,11 +14,11 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: pustakalaya\n"
 "X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/src/locale/af/LC_MESSAGES/django.po\n"
+"X-Crowdin-File: /master/src/locale/es/LC_MESSAGES/django.po\n"
 
 #: pustakalaya/forms.py:8
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: pustakalaya/forms.py:12
 msgid "Your name"
@@ -26,11 +26,11 @@ msgstr ""
 
 #: pustakalaya/forms.py:16 pustakalaya/forms.py:20
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: pustakalaya/forms.py:25
 msgid "Country"
-msgstr ""
+msgstr "País"
 
 #: pustakalaya/forms.py:31
 msgid "Your country"
@@ -39,7 +39,7 @@ msgstr ""
 #: pustakalaya/forms.py:37 pustakalaya_apps/core/abstract_models.py:48
 #: pustakalaya_apps/core/templates/core/author_detail.html:36
 msgid "Address"
-msgstr ""
+msgstr "Dirección"
 
 #: pustakalaya/forms.py:43
 msgid "Your Address"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: pustakalaya/forms.py:49
 msgid "Suggestion"
-msgstr ""
+msgstr "Sugerencia"
 
 #: pustakalaya/forms.py:54
 msgid "Your Message"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: pustakalaya/settings/base.py:239 pustakalaya_apps/core/constants.py:20
 msgid "English"
-msgstr ""
+msgstr "Inglés"
 
 #: pustakalaya/settings/base.py:240 pustakalaya_apps/core/constants.py:64
 msgid "Nepali"
@@ -64,11 +64,11 @@ msgstr ""
 #: pustakalaya_apps/audio/apps.py:9
 #: pustakalaya_apps/core/abstract_models.py:110
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: pustakalaya_apps/audio/models.py:29
 msgid "Audio types"
-msgstr ""
+msgstr "Tipos de Audio"
 
 #: pustakalaya_apps/audio/models.py:34
 msgid "Add this audio to these collection"
@@ -88,7 +88,7 @@ msgstr ""
 
 #: pustakalaya_apps/audio/models.py:66 pustakalaya_apps/document/models.py:160
 msgid "Select list of keywords"
-msgstr ""
+msgstr "Seleccionar lista de palabras clave"
 
 #: pustakalaya_apps/audio/models.py:71
 msgid "Audio Genre"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: pustakalaya_apps/audio/models.py:78 pustakalaya_apps/video/models.py:58
 msgid "Languages"
-msgstr ""
+msgstr "Idiomas"
 
 #: pustakalaya_apps/audio/models.py:88
 msgid "Audio Series / Volume"
@@ -105,7 +105,7 @@ msgstr ""
 #: pustakalaya_apps/audio/models.py:95 pustakalaya_apps/document/models.py:170
 #: pustakalaya_apps/video/models.py:87
 msgid "Sponsor"
-msgstr ""
+msgstr "Patrocinador"
 
 #: pustakalaya_apps/audio/models.py:166 pustakalaya_apps/video/models.py:226
 msgid "Genre name"
@@ -118,12 +118,12 @@ msgstr ""
 #: pustakalaya_apps/audio/models.py:193 pustakalaya_apps/document/models.py:283
 #: pustakalaya_apps/video/models.py:194
 msgid "File name"
-msgstr ""
+msgstr "Nombre de archivo"
 
 #: pustakalaya_apps/audio/models.py:217 pustakalaya_apps/document/models.py:315
 #: pustakalaya_apps/video/models.py:215
 msgid "Link"
-msgstr ""
+msgstr "Enlace"
 
 #: pustakalaya_apps/audio/models.py:229
 msgid "Rhymes"
@@ -131,19 +131,19 @@ msgstr ""
 
 #: pustakalaya_apps/audio/models.py:230
 msgid "Novel"
-msgstr ""
+msgstr "Novela"
 
 #: pustakalaya_apps/audio/models.py:231
 msgid "Short Story"
-msgstr ""
+msgstr "Historia Corta"
 
 #: pustakalaya_apps/audio/models.py:232
 msgid "Children Song"
-msgstr ""
+msgstr "Canción para niños"
 
 #: pustakalaya_apps/audio/models.py:236
 msgid "Audio type"
-msgstr ""
+msgstr "Tipo de audio"
 
 #: pustakalaya_apps/audio/models.py:241
 msgid "Audio description"
@@ -163,21 +163,21 @@ msgstr ""
 #: pustakalaya_apps/document/templates/document/document_detail.html:196
 #: pustakalaya_apps/video/templates/video/video_detail.html:112
 msgid "Place of publication:"
-msgstr ""
+msgstr "Lugar de publicación:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:124
 #: pustakalaya_apps/document/templates/document/document_detail.html:207
 #: pustakalaya_apps/video/templates/video/video_detail.html:118
 msgid "publication year:"
-msgstr ""
+msgstr "año de publicación:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:130
 msgid "read by:"
-msgstr ""
+msgstr "leído por:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:136
 msgid "type:"
-msgstr ""
+msgstr "tipo:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:144
 #: pustakalaya_apps/video/templates/video/video_detail.html:190
@@ -192,25 +192,25 @@ msgstr ""
 #: pustakalaya_apps/document/templates/document/document_detail.html:219
 #: pustakalaya_apps/video/templates/video/video_detail.html:125
 msgid "available year:"
-msgstr ""
+msgstr "año disponible:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:166
 #: pustakalaya_apps/document/templates/document/document_detail.html:228
 #: pustakalaya_apps/video/templates/video/video_detail.html:136
 msgid "keywords:"
-msgstr ""
+msgstr "palabras clave:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:178
 #: pustakalaya_apps/document/templates/document/document_detail.html:247
 #: pustakalaya_apps/video/templates/video/video_detail.html:149
 msgid "description:"
-msgstr ""
+msgstr "descripción:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:185
 #: pustakalaya_apps/document/templates/document/document_detail.html:256
 #: pustakalaya_apps/video/templates/video/video_detail.html:156
 msgid "License type:"
-msgstr ""
+msgstr "Tipo de licencia:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:192
 #: pustakalaya_apps/document/templates/document/document_detail.html:310
@@ -222,7 +222,7 @@ msgstr ""
 #: pustakalaya_apps/document/templates/document/document_detail.html:319
 #: pustakalaya_apps/video/templates/video/video_detail.html:206
 msgid "education levels"
-msgstr ""
+msgstr "niveles de educación"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:212
 #: pustakalaya_apps/document/templates/document/document_detail.html:337
@@ -238,52 +238,52 @@ msgstr ""
 
 #: pustakalaya_apps/collection/apps.py:7
 msgid "Categories"
-msgstr ""
+msgstr "Categorías"
 
 #: pustakalaya_apps/collection/models.py:18
 #: pustakalaya_apps/community/models.py:10
 msgid "Literature and arts"
-msgstr ""
+msgstr "Literatura y artes"
 
 #: pustakalaya_apps/collection/models.py:19
 #: pustakalaya_apps/community/models.py:11
 msgid "Course materials"
-msgstr ""
+msgstr "Materiales del curso"
 
 #: pustakalaya_apps/collection/models.py:20
 #: pustakalaya_apps/community/models.py:12
 msgid "Teaching materials"
-msgstr ""
+msgstr "Materiales didácticos"
 
 #: pustakalaya_apps/collection/models.py:21
 #: pustakalaya_apps/community/models.py:13
 msgid "Reference materials"
-msgstr ""
+msgstr "Materiales de referencia"
 
 #: pustakalaya_apps/collection/models.py:22
 #: pustakalaya_apps/community/models.py:15
 msgid "Other educational materials"
-msgstr ""
+msgstr "Otros materiales didácticos"
 
 #: pustakalaya_apps/collection/models.py:23
 msgid "newspaper and magazines"
-msgstr ""
+msgstr "periódicos y revistas"
 
 #: pustakalaya_apps/collection/models.py:29
 msgid "Community"
-msgstr ""
+msgstr "Comunidad"
 
 #: pustakalaya_apps/collection/models.py:33
 msgid "Collection name"
-msgstr ""
+msgstr "Nombre de colección"
 
 #: pustakalaya_apps/collection/models.py:39
 msgid "Collection description"
-msgstr ""
+msgstr "Descripción de colección"
 
 #: pustakalaya_apps/collection/templates/collection/collection_detail.html:17
 msgid "section"
-msgstr ""
+msgstr "sección"
 
 #: pustakalaya_apps/collection/templates/collection/collection_detail.html:32
 #: pustakalaya_apps/core/templates/core/author_books.html:18
@@ -295,15 +295,15 @@ msgstr ""
 #: pustakalaya_apps/core/templates/core/author_books.html:20
 #: pustakalaya_apps/core/templates/core/keyword_detail.html:27
 msgid "Sort by"
-msgstr ""
+msgstr "Ordenar por"
 
 #: pustakalaya_apps/community/models.py:14
 msgid "Newpapers and magazines"
-msgstr ""
+msgstr "Periódicos y revistas"
 
 #: pustakalaya_apps/community/models.py:25
 msgid "Community description"
-msgstr ""
+msgstr "Descripción de comunidad"
 
 #: pustakalaya_apps/core/abstract_models.py:14
 msgid "Created date"
@@ -316,28 +316,28 @@ msgstr ""
 #: pustakalaya_apps/core/abstract_models.py:28
 #: pustakalaya_apps/pustakalaya_account/models.py:12
 msgid "First name"
-msgstr ""
+msgstr "Nombre"
 
 #: pustakalaya_apps/core/abstract_models.py:31
 msgid "Middle name"
-msgstr ""
+msgstr "Segundo nombre"
 
 #: pustakalaya_apps/core/abstract_models.py:32
 #: pustakalaya_apps/pustakalaya_account/models.py:18
 msgid "Last name"
-msgstr ""
+msgstr "Apellido"
 
 #: pustakalaya_apps/core/abstract_models.py:34
 #: pustakalaya_apps/core/abstract_models.py:88
 #: pustakalaya_apps/core/abstract_models.py:142
 #: pustakalaya_apps/core/models.py:91
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: pustakalaya_apps/core/abstract_models.py:38
 #: pustakalaya_apps/core/templates/core/author_detail.html:37
 msgid "Date of birth"
-msgstr ""
+msgstr "Fecha de nacimiento"
 
 #: pustakalaya_apps/core/abstract_models.py:43
 #: pustakalaya_apps/core/templates/core/author_detail.html:38
@@ -347,7 +347,7 @@ msgstr ""
 #: pustakalaya_apps/core/abstract_models.py:53
 #: pustakalaya_apps/core/templates/core/author_detail.html:39
 msgid "Genre"
-msgstr ""
+msgstr "Género"
 
 #: pustakalaya_apps/core/abstract_models.py:59
 msgid "Creator image"
@@ -355,7 +355,7 @@ msgstr ""
 
 #: pustakalaya_apps/core/abstract_models.py:83
 msgid "Series name"
-msgstr ""
+msgstr "Nombre de series"
 
 #: pustakalaya_apps/core/abstract_models.py:99
 #: pustakalaya_apps/core/abstract_models.py:102
@@ -475,11 +475,11 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:5
 msgid "Arabic"
-msgstr ""
+msgstr "Árabe"
 
 #: pustakalaya_apps/core/constants.py:6
 msgid "Asturian"
-msgstr ""
+msgstr "Asturiano"
 
 #: pustakalaya_apps/core/constants.py:7
 msgid "Azerbaijani"
@@ -487,11 +487,11 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:8
 msgid "Bulgarian"
-msgstr ""
+msgstr "Búlgaro"
 
 #: pustakalaya_apps/core/constants.py:9
 msgid "Belarusian"
-msgstr ""
+msgstr "Bielorruso"
 
 #: pustakalaya_apps/core/constants.py:10
 msgid "Bengali"
@@ -503,27 +503,27 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:12
 msgid "Bosnian"
-msgstr ""
+msgstr "Bosnio"
 
 #: pustakalaya_apps/core/constants.py:13
 msgid "Catalan"
-msgstr ""
+msgstr "Catalán"
 
 #: pustakalaya_apps/core/constants.py:14
 msgid "Czech"
-msgstr ""
+msgstr "Checo"
 
 #: pustakalaya_apps/core/constants.py:15
 msgid "Welsh"
-msgstr ""
+msgstr "Galés"
 
 #: pustakalaya_apps/core/constants.py:16
 msgid "Danish"
-msgstr ""
+msgstr "Danés"
 
 #: pustakalaya_apps/core/constants.py:17
 msgid "German"
-msgstr ""
+msgstr "Alemán"
 
 #: pustakalaya_apps/core/constants.py:18
 msgid "Lower Sorbian"
@@ -531,15 +531,15 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:19
 msgid "Greek"
-msgstr ""
+msgstr "Griego"
 
 #: pustakalaya_apps/core/constants.py:21
 msgid "Australian English"
-msgstr ""
+msgstr "Inglés Australiano"
 
 #: pustakalaya_apps/core/constants.py:22
 msgid "British English"
-msgstr ""
+msgstr "Inglés Británico"
 
 #: pustakalaya_apps/core/constants.py:23
 msgid "Esperanto"
@@ -547,47 +547,47 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:24
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 #: pustakalaya_apps/core/constants.py:25
 msgid "Argentinian Spanish"
-msgstr ""
+msgstr "Español Argentino"
 
 #: pustakalaya_apps/core/constants.py:26
 msgid "Colombian Spanish"
-msgstr ""
+msgstr "Español Colombiano"
 
 #: pustakalaya_apps/core/constants.py:27
 msgid "Mexican Spanish"
-msgstr ""
+msgstr "Español Mexicano"
 
 #: pustakalaya_apps/core/constants.py:28
 msgid "Nicaraguan Spanish"
-msgstr ""
+msgstr "Español Nicaragüense"
 
 #: pustakalaya_apps/core/constants.py:29
 msgid "Venezuelan Spanish"
-msgstr ""
+msgstr "Español Venezolano"
 
 #: pustakalaya_apps/core/constants.py:30
 msgid "Estonian"
-msgstr ""
+msgstr "Estonio"
 
 #: pustakalaya_apps/core/constants.py:31
 msgid "Basque"
-msgstr ""
+msgstr "Vasco"
 
 #: pustakalaya_apps/core/constants.py:32
 msgid "Persian"
-msgstr ""
+msgstr "Persa"
 
 #: pustakalaya_apps/core/constants.py:33
 msgid "Finnish"
-msgstr ""
+msgstr "Finlandés"
 
 #: pustakalaya_apps/core/constants.py:34
 msgid "French"
-msgstr ""
+msgstr "Francés"
 
 #: pustakalaya_apps/core/constants.py:35
 msgid "Frisian"
@@ -595,7 +595,7 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:36
 msgid "Irish"
-msgstr ""
+msgstr "Irlandés"
 
 #: pustakalaya_apps/core/constants.py:37
 msgid "Scottish Gaelic"
@@ -603,19 +603,19 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:38
 msgid "Galician"
-msgstr ""
+msgstr "Gallego"
 
 #: pustakalaya_apps/core/constants.py:39
 msgid "Hebrew"
-msgstr ""
+msgstr "Hebreo"
 
 #: pustakalaya_apps/core/constants.py:40
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
 
 #: pustakalaya_apps/core/constants.py:41
 msgid "Croatian"
-msgstr ""
+msgstr "Croata"
 
 #: pustakalaya_apps/core/constants.py:42
 msgid "Upper Sorbian"
@@ -623,7 +623,7 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:43
 msgid "Hungarian"
-msgstr ""
+msgstr "Húngaro"
 
 #: pustakalaya_apps/core/constants.py:44
 msgid "Interlingua"
@@ -631,7 +631,7 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:45
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonesio"
 
 #: pustakalaya_apps/core/constants.py:46
 msgid "Ido"
@@ -643,11 +643,11 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:48
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 #: pustakalaya_apps/core/constants.py:49
 msgid "Japanese"
-msgstr ""
+msgstr "Japonés"
 
 #: pustakalaya_apps/core/constants.py:50
 msgid "Georgian"
@@ -799,7 +799,7 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:88
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ucraniano"
 
 #: pustakalaya_apps/core/constants.py:89
 msgid "Urdu"
@@ -807,23 +807,23 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:90
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamita"
 
 #: pustakalaya_apps/core/constants.py:91
 msgid "Simplified Chinese"
-msgstr ""
+msgstr "Chino Simplificado"
 
 #: pustakalaya_apps/core/constants.py:92
 msgid "Traditional Chinese"
-msgstr ""
+msgstr "Chino Tradicional"
 
 #: pustakalaya_apps/core/models.py:13
 msgid "Category name"
-msgstr ""
+msgstr "Nombre de categoría"
 
 #: pustakalaya_apps/core/models.py:18
 msgid "Category description"
-msgstr ""
+msgstr "Descripción de categoría"
 
 #: pustakalaya_apps/core/models.py:30 pustakalaya_apps/document/models.py:155
 msgid "Publisher name"
@@ -835,11 +835,11 @@ msgstr ""
 
 #: pustakalaya_apps/core/models.py:51
 msgid "Keyword"
-msgstr ""
+msgstr "Palabra clave"
 
 #: pustakalaya_apps/core/models.py:56
 msgid "Keyword description"
-msgstr ""
+msgstr "Descripción de palabra clave"
 
 #: pustakalaya_apps/core/models.py:71
 msgid "Search Keywords"
@@ -847,7 +847,7 @@ msgstr ""
 
 #: pustakalaya_apps/core/models.py:79
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: pustakalaya_apps/core/models.py:86
 msgid "Sponsor Name"
@@ -875,11 +875,11 @@ msgstr ""
 
 #: pustakalaya_apps/core/models.py:113 pustakalaya_apps/video/models.py:54
 msgid "Education Level"
-msgstr ""
+msgstr "Nivel de Educación"
 
 #: pustakalaya_apps/core/models.py:136
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #: pustakalaya_apps/core/templates/core/author_books.html:13
 msgid "Books by"
