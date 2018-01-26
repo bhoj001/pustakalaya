@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-25 19:20-0500\n"
+"PO-Revision-Date: 2018-01-25 19:31-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1269,11 +1269,11 @@ msgstr ""
 
 #: templates/_partials/login_form.html:20
 msgid "Login with your registered Email &amp; Password."
-msgstr ""
+msgstr "Iniciar sesión con su Correo Electrónico registrado &amp; Contraseña."
 
 #: templates/_partials/login_form.html:34 templates/account/login.html:45
 msgid "Forgot Password?"
-msgstr ""
+msgstr "¿Olvidó su contraseña?"
 
 #: templates/_partials/login_form.html:35 templates/account/login.html:7
 #: templates/account/login.html:11 templates/account/login.html:46
@@ -1397,11 +1397,11 @@ msgstr ""
 
 #: templates/account/email.html:62
 msgid "Add E-mail"
-msgstr ""
+msgstr "Añadir correo electrónico"
 
 #: templates/account/email.html:72
 msgid "Do you really want to remove the selected e-mail address?"
-msgstr ""
+msgstr "¿Realmente desea eliminar la dirección de correo electrónico seleccionada?"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
@@ -1418,7 +1418,7 @@ msgstr ""
 
 #: templates/account/email/email_confirmation_subject.txt:3
 msgid "Please Confirm Your E-mail Address"
-msgstr ""
+msgstr "Por Favor Confirme Su Dirección De Correo Electrónico"
 
 #: templates/account/email/password_reset_key_message.txt:1
 #, python-format
