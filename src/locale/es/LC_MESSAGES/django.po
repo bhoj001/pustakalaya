@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-26 16:33-0500\n"
+"PO-Revision-Date: 2018-01-26 16:42-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1035,7 +1035,7 @@ msgstr ""
 
 #: pustakalaya_apps/document/models.py:100
 msgid "Education Levels"
-msgstr ""
+msgstr "Niveles de Educación"
 
 #: pustakalaya_apps/document/models.py:106
 msgid "Language(s)"
@@ -1192,7 +1192,7 @@ msgstr "resultados encontrados en "
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:419
 msgid "sec"
-msgstr ""
+msgstr "seg"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:440
 msgid "Views"
@@ -1454,7 +1454,9 @@ msgstr "Confirmar Dirección de Correo Electrónico"
 msgid "Please confirm that\n"
 "            <a href=\"mailto:%(email)s\">%(email)s</a> is an e-mail address for user %(user_display)s\n"
 "            ."
-msgstr ""
+msgstr "Por favor confirme que\n"
+"            <a href=\"mailto:%(email)s\">%(email)s</a> es una dirección de correo electrónico para el usuario%(user_display)s\n"
+"            ."
 
 #: templates/account/email_confirm.html:23
 msgid "Confirm"
@@ -1500,7 +1502,7 @@ msgstr "Correo electrónico de confirmación enviado a %(email)s."
 #: templates/account/messages/email_confirmed.txt:2
 #, python-format
 msgid "You have confirmed %(email)s."
-msgstr ""
+msgstr "Ha confirmado %(email)s."
 
 #: templates/account/messages/email_deleted.txt:2
 #, python-format
@@ -1673,7 +1675,7 @@ msgstr "página de inicio"
 
 #: templates/index.html:38 templates/index_new.html:38
 msgid "Browse Pustakalaya"
-msgstr ""
+msgstr "Explorar Pustakalaya"
 
 #: templates/index.html:46 templates/index_new.html:46
 msgid "browse the library"
@@ -1689,7 +1691,7 @@ msgstr "secciones"
 
 #: templates/index.html:80 templates/index_new.html:80
 msgid "literatures and Arts"
-msgstr ""
+msgstr "literaturas y Artes"
 
 #: templates/index.html:86 templates/index_new.html:86
 msgid "Course Materials"
