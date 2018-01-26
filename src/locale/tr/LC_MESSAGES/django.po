@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-26 02:31-0500\n"
+"PO-Revision-Date: 2018-01-26 03:00-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1759,15 +1759,15 @@ msgstr "Daha fazla oku"
 
 #: templates/index.html:285 templates/index_new.html:276
 msgid "Major partners"
-msgstr ""
+msgstr "Büyük ortaklar"
 
 #: templates/index.html:299 templates/index_new.html:290
 msgid "Past supporter"
-msgstr ""
+msgstr "Eski destekçi"
 
 #: templates/index.html:334 templates/index_new.html:325
 msgid "Content contribution"
-msgstr ""
+msgstr "İçerik Katkısı"
 
 #: templates/static_pages/about.html:15
 msgid "\n\n"
