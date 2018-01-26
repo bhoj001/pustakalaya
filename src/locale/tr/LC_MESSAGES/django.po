@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-26 13:13-0500\n"
+"PO-Revision-Date: 2018-01-26 13:24-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1414,7 +1414,8 @@ msgstr ""
 #, python-format
 msgid "Thank you from %(site_name)s!\n"
 "%(site_domain)s"
-msgstr ""
+msgstr "%(site_name)s'den Teşekkürler!\n"
+"%(site_domain)s"
 
 #: templates/account/email/email_confirmation_subject.txt:3
 msgid "Please Confirm Your E-mail Address"
@@ -1425,7 +1426,9 @@ msgstr "Lütfen E-posta Adresinizi Doğrulayın"
 msgid "Hello from %(site_name)s!\n\n"
 "You're receiving this e-mail because you or someone else has requested a password for your user account.\n"
 "It can be safely ignored if you did not request a password reset. Click the link below to reset your password."
-msgstr ""
+msgstr "%(site_name)s'den Selamlar!\n\n"
+"Bu e-postayı alıyorsunuz çünkü siz veya bir başkası kullanıcı hesabınız için parola isteğinde bulundu.\n"
+"Bir şifre sıfırlama talebinde bulunmadıysanız bunu güvenle yok sayabilirsiniz. Şifrenizi sıfırlamak için aşağıdaki bağlantıyı tıklayın."
 
 #: templates/account/email/password_reset_key_message.txt:8
 #, python-format
@@ -1673,11 +1676,11 @@ msgstr "ana sayfa"
 
 #: templates/index.html:38 templates/index_new.html:38
 msgid "Browse Pustakalaya"
-msgstr ""
+msgstr "Pustakalaya'yı Araştır"
 
 #: templates/index.html:46 templates/index_new.html:46
 msgid "browse the library"
-msgstr ""
+msgstr "kütüphaneyi araştır"
 
 #: templates/index.html:64 templates/index_new.html:64
 msgid "author"
@@ -1713,7 +1716,7 @@ msgstr "Gazeteler & Dergiler"
 
 #: templates/index.html:175 templates/index_new.html:166
 msgid "Interactive educational software"
-msgstr ""
+msgstr "İnteraktif eğitim yazılımı"
 
 #: templates/index.html:259 templates/index_new.html:250
 #: templates/static_pages/about.html:13
