@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-26 15:23-0500\n"
+"PO-Revision-Date: 2018-01-26 15:33-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1665,13 +1665,16 @@ msgstr "Sitenin bu kısmında iddia ettiğiniz kişi\n"
 msgid "We have sent an e-mail to you for\n"
 "            verification. Please click on the link inside this e-mail. Please\n"
 "            contact us if you do not receive it within a few minutes."
-msgstr ""
+msgstr "Doğrulama için size bir e-posta\n"
+"            gönderdik. Lütfen gönderdiğimiz e-postanın içindeki bağlantıya tıklayın. Eğer\n"
+"            bu e-postayı birkaç dakika içinde almazsanız lütfen bizimle iletişim kurun."
 
 #: templates/account/verified_email_required.html:21
 #, python-format
 msgid "<strong>Note:</strong> you can still <a href=\"%(email_url)s\">change your e-mail address</a>\n"
 "            ."
-msgstr ""
+msgstr "<strong>Not:</strong> yinede<a href=\"%(email_url)s\">e-posta adresinizi değiştirebilirsiniz</a>\n"
+"            ."
 
 #: templates/base.html:14
 msgid "Pustakalaya"
@@ -1811,7 +1814,12 @@ msgid "\n"
 "                Your feedback will be invaluable in our attempts to continually improve the quality and user experience\n"
 "                of E-Pustakalaya.\n"
 "            "
-msgstr ""
+msgstr "\n"
+"                Lütfen aşağıdaki formu, bizim web sitemizde neyi beğendiğiniz veya neleri geliştirilebileceğimiz hakkında\n"
+"                ayrıntı vermek için kullanın.\n\n"
+"                E-Pustakalaya kalitesini ve kullanıcı deneyimini durmadan iyileştirme denemelerimizde geri bildiriminiz\n"
+"                değer biçilemez olacaktır.\n"
+"            "
 
 #: templates/static_pages/feedback.html:31
 msgid "Send Feedback"
@@ -1835,7 +1843,7 @@ msgstr "E-Pustakalaya ana sayfasında gördüğüm farklı bölümler nelerdir?"
 
 #: templates/static_pages/help.html:21 templates/static_pages/help.html:228
 msgid "How do I use the browse, link and search feature of the library?"
-msgstr ""
+msgstr "Kütüphanenin gözden geçirme, bağlantı ve arama özelliğini nasıl kullanırım?"
 
 #: templates/static_pages/help.html:23 templates/static_pages/help.html:323
 msgid "How do I return to the E-Pustakalaya home page from another page?"
@@ -1870,7 +1878,7 @@ msgstr "E-Pustakalaya intranet veya internet vasıtasıyla erişilebilen tam met
 
 #: templates/static_pages/help.html:56
 msgid "What are the major sections?"
-msgstr ""
+msgstr "Ana bölümler nelerdir?"
 
 #: templates/static_pages/help.html:57
 msgid "\n"
