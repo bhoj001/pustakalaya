@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-25 19:10-0500\n"
+"PO-Revision-Date: 2018-01-25 19:20-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -917,15 +917,15 @@ msgstr ""
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/footer.html:9
 msgid "HELP"
-msgstr ""
+msgstr "AYUDA"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/footer.html:13
 msgid "BLOG"
-msgstr ""
+msgstr "BLOG"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/footer.html:18
 msgid "TERMS AND CONDITION"
-msgstr ""
+msgstr "TÉRMINOS Y CONDICIÓN"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/footer.html:24
 msgid "ole nepal"
@@ -942,12 +942,12 @@ msgstr ""
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/navbar.html:40
 #: templates/_partials/navbar.html:117 templates/_partials/navbar1.html:119
 msgid "settings"
-msgstr ""
+msgstr "configuraciones"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/navbar.html:44
 #: templates/account/password_reset_from_key.html:18
 msgid "change password"
-msgstr ""
+msgstr "cambiar contraseña"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/navbar.html:46
 msgid "manage email"
@@ -963,7 +963,7 @@ msgstr ""
 
 #: pustakalaya_apps/document/models.py:54
 msgid "Book"
-msgstr ""
+msgstr "Libro"
 
 #: pustakalaya_apps/document/models.py:55
 msgid "Working paper"
@@ -971,7 +971,7 @@ msgstr ""
 
 #: pustakalaya_apps/document/models.py:56
 msgid "Thesis"
-msgstr ""
+msgstr "Tesis"
 
 #: pustakalaya_apps/document/models.py:57
 msgid "Journal paper"
@@ -983,7 +983,7 @@ msgstr ""
 
 #: pustakalaya_apps/document/models.py:59
 msgid "Article"
-msgstr ""
+msgstr "Artículo"
 
 #: pustakalaya_apps/document/models.py:64
 msgid "PPT"
@@ -1091,28 +1091,28 @@ msgstr ""
 
 #: pustakalaya_apps/document/models.py:344
 msgid "document"
-msgstr ""
+msgstr "documento"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:44
 msgid "download "
-msgstr ""
+msgstr "descargar "
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:48
 msgid "read"
-msgstr ""
+msgstr "leer"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:54
 msgid "File size: "
-msgstr ""
+msgstr "Tamaño de archivo: "
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:98
 #: pustakalaya_apps/document/templates/document/document_detail.html:146
 msgid "Authors:"
-msgstr ""
+msgstr "Autores:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:114
 msgid "Illustrators:"
-msgstr ""
+msgstr "Ilustradores:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:160
 msgid "illustrators:"
@@ -1120,7 +1120,7 @@ msgstr ""
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:172
 msgid "Editors:"
-msgstr ""
+msgstr "Editores:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:263
 #: pustakalaya_apps/video/templates/video/video_detail.html:163
@@ -1129,23 +1129,23 @@ msgstr ""
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:272
 msgid "edition:"
-msgstr ""
+msgstr "edición:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:283
 msgid "volume:"
-msgstr ""
+msgstr "volumen:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:303
 msgid "total pages"
-msgstr ""
+msgstr "total de páginas"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:330
 msgid "interactivity"
-msgstr ""
+msgstr "interactividad"
 
 #: pustakalaya_apps/pustakalaya_account/models.py:22
 msgid "Phone no"
-msgstr ""
+msgstr "Número de teléfono"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:161
 msgid "Media type"
@@ -1160,11 +1160,11 @@ msgstr ""
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:238
 msgid "more"
-msgstr ""
+msgstr "más"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:240
 msgid "less"
-msgstr ""
+msgstr "menos"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:250
 msgid "language"
@@ -1176,19 +1176,19 @@ msgstr ""
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:292
 msgid "communities"
-msgstr ""
+msgstr "comunidades"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:314
 msgid "collections"
-msgstr ""
+msgstr "colecciones"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:336
 msgid "license type"
-msgstr ""
+msgstr "tipo de licencia"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:418
 msgid "results found in "
-msgstr ""
+msgstr "resultados encontrados en "
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:419
 msgid "sec"
@@ -1200,7 +1200,7 @@ msgstr ""
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:509
 msgid "result not found"
-msgstr ""
+msgstr "resultado no encontrado"
 
 #: pustakalaya_apps/video/models.py:33
 msgid "Add this video to these collection"
@@ -1208,7 +1208,7 @@ msgstr ""
 
 #: pustakalaya_apps/video/models.py:46
 msgid "Producer"
-msgstr ""
+msgstr "Productor"
 
 #: pustakalaya_apps/video/models.py:63
 msgid "Video series"
@@ -1216,7 +1216,7 @@ msgstr ""
 
 #: pustakalaya_apps/video/models.py:75
 msgid "Certification"
-msgstr ""
+msgstr "Certificación"
 
 #: pustakalaya_apps/video/models.py:80
 msgid "Age group"
@@ -1240,7 +1240,7 @@ msgstr ""
 
 #: pustakalaya_apps/video/templates/video/video_detail.html:183
 msgid "certificate license:"
-msgstr ""
+msgstr "certificado de licencia:"
 
 #: templates/404.html:5
 msgid "Oops broken page  404 Not found"
@@ -1248,20 +1248,20 @@ msgstr ""
 
 #: templates/500.html:5
 msgid "Some server error :("
-msgstr ""
+msgstr "Algún error de servidor :("
 
 #: templates/_partials/footer.html:11 templates/_partials/navbar.html:55
 #: templates/_partials/navbar1.html:57
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 #: templates/_partials/footer.html:16
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: templates/_partials/footer.html:31
 msgid "Developed By"
-msgstr ""
+msgstr "Desarrollado Por"
 
 #: templates/_partials/footer.html:32
 msgid "OLE Nepal"
