@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-27 18:30-0500\n"
+"PO-Revision-Date: 2018-01-27 18:40-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1224,7 +1224,7 @@ msgstr "Yaş grubu"
 
 #: pustakalaya_apps/video/models.py:94
 msgid "Video Genre"
-msgstr ""
+msgstr "Video Biçimi"
 
 #: pustakalaya_apps/video/models.py:101
 msgid "Publisher"
@@ -1244,7 +1244,7 @@ msgstr "sertifika lisansı:"
 
 #: templates/404.html:5
 msgid "Oops broken page  404 Not found"
-msgstr ""
+msgstr "Oops bozuk sayfa 404 bulunamadı"
 
 #: templates/500.html:5
 msgid "Some server error :("
@@ -1265,7 +1265,7 @@ msgstr "Tarafından geliştirildi"
 
 #: templates/_partials/footer.html:32
 msgid "OLE Nepal"
-msgstr ""
+msgstr "OLE Nepal"
 
 #: templates/_partials/login_form.html:20
 msgid "Login with your registered Email &amp; Password."
@@ -1285,7 +1285,7 @@ msgstr "Oturum Aç"
 msgid "Please sign in with one\n"
 "            of your existing third party accounts. Or, <a href=\"%(signup_url)s\">sign up</a>\n"
 "            for a %(site_name)s account and sign in below:"
-msgstr ""
+msgstr "Lütfen üçüncü parti hesaplarınızdan biri ile giriş yapınız. Veya, <a href=\"%(signup_url)s\">sign up</a> %(site_name)s hesabınız ile kaydolun ve giriş yapınız:"
 
 #: templates/_partials/login_form.html:57
 #, python-format
@@ -1329,7 +1329,7 @@ msgstr "tarihi güncelle"
 
 #: templates/_partials/sorting_form.html:15
 msgid "Rating"
-msgstr ""
+msgstr "Derecelendirme"
 
 #: templates/_partials/sorting_form.html:23
 msgid "Ascending"
@@ -1418,7 +1418,8 @@ msgstr "\n"
 #, python-format
 msgid "Thank you from %(site_name)s!\n"
 "%(site_domain)s"
-msgstr ""
+msgstr "%(site_name)s sitesinden teşekkürler! \n"
+"%(site_domain)s"
 
 #: templates/account/email/email_confirmation_subject.txt:3
 msgid "Please Confirm Your E-mail Address"
@@ -1443,7 +1444,7 @@ msgstr "Unutmanız durumunda, kullanıcı adınız %(username)s."
 #, python-format
 msgid "Thank you for using %(site_name)s!\n"
 "%(site_domain)s"
-msgstr ""
+msgstr "%(site_name)s %(site_domain)s kullandığınız için teşekkür ederiz"
 
 #: templates/account/email/password_reset_key_subject.txt:3
 msgid "Password Reset E-mail"
@@ -1459,7 +1460,7 @@ msgstr "E-posta Adresini Onayla"
 msgid "Please confirm that\n"
 "            <a href=\"mailto:%(email)s\">%(email)s</a> is an e-mail address for user %(user_display)s\n"
 "            ."
-msgstr ""
+msgstr "Lütfen <a href=\"mailto:%(email)s\">%(email)s</a> kullanıcının %(user_display)s bir e-posta adresi olduğunuz doğrulayınız."
 
 #: templates/account/email_confirm.html:23
 msgid "Confirm"
@@ -1477,7 +1478,7 @@ msgstr "Bu e-posta doğrulama bağlantısının süresi doldu veya hatalı. Lüt
 msgid "Please sign in with one\n"
 "                of your existing third party accounts. Or, <a href=\"%(signup_url)s\">sign up</a>\n"
 "                for a %(site_name)s account and sign in below:"
-msgstr ""
+msgstr "Lütfen mevcut üçüncü parti hesaplarınızdan biriyle giriş yapınız. Yada %(site_name)s hesabına <a href=\"%(signup_url)s\">kayıt ol</a> ve aşağıdan giriş yapınız:"
 
 #: templates/account/login.html:32
 msgid "If you have not created an account yet, then please\n"
@@ -1574,7 +1575,7 @@ msgstr "Size bir e-posta gönderdik. Birkaç dakika içerisinde gelmezse lütfen
 
 #: templates/account/password_reset_from_key.html:8
 msgid "Bad Token"
-msgstr ""
+msgstr "Kötü Gösterge"
 
 #: templates/account/password_reset_from_key.html:12
 #, python-format
@@ -1675,7 +1676,7 @@ msgstr "Doğrulama için size bir e-posta \n"
 #, python-format
 msgid "<strong>Note:</strong> you can still <a href=\"%(email_url)s\">change your e-mail address</a>\n"
 "            ."
-msgstr ""
+msgstr "<strong>Not: </strong> yinede <a href=\"%(email_url)s\"> e-posta adresinizi değiştirebilirsiniz </a>."
 
 #: templates/base.html:14
 msgid "Pustakalaya"
