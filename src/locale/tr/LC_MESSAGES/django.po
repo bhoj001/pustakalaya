@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-27 18:40-0500\n"
+"PO-Revision-Date: 2018-01-27 18:50-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1704,7 +1704,7 @@ msgstr "bölümler"
 
 #: templates/index.html:80 templates/index_new.html:80
 msgid "literatures and Arts"
-msgstr ""
+msgstr "edebiyatlar ve Sanatlar"
 
 #: templates/index.html:86 templates/index_new.html:86
 msgid "Course Materials"
@@ -1728,7 +1728,7 @@ msgstr "Gazeteler & Dergiler"
 
 #: templates/index.html:175 templates/index_new.html:166
 msgid "Interactive educational software"
-msgstr ""
+msgstr "Etkileşimli eğitim yazılımı"
 
 #: templates/index.html:259 templates/index_new.html:250
 #: templates/static_pages/about.html:13
@@ -1764,11 +1764,11 @@ msgstr "Devamını Oku"
 
 #: templates/index.html:285 templates/index_new.html:276
 msgid "Major partners"
-msgstr ""
+msgstr "Ana ortaklar"
 
 #: templates/index.html:299 templates/index_new.html:290
 msgid "Past supporter"
-msgstr ""
+msgstr "Geçmiş destekçisi"
 
 #: templates/index.html:334 templates/index_new.html:325
 msgid "Content contribution"
