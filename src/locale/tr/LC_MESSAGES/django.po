@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-26 22:30-0500\n"
+"PO-Revision-Date: 2018-01-26 22:40-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1473,7 +1473,7 @@ msgstr "Bu e-posta doğrulama linkinin süresi dolmuş veya geçersiz. Lütfen  
 msgid "Please sign in with one\n"
 "                of your existing third party accounts. Or, <a href=\"%(signup_url)s\">sign up</a>\n"
 "                for a %(site_name)s account and sign in below:"
-msgstr ""
+msgstr "Lütfen varolan üçüncü parti hesaplarınızdan biri ile giriş yapınız. Veya <a href=\"%(signup_url)s\",> yeni bir hesap için %(site_name)s kaydolun</a> ve aşağıdan giriş yapın:"
 
 #: templates/account/login.html:32
 msgid "If you have not created an account yet, then please\n"
