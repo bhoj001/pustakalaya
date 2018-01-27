@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-27 00:41-0500\n"
+"PO-Revision-Date: 2018-01-27 00:51-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -663,7 +663,7 @@ msgstr "Kmerce"
 
 #: pustakalaya_apps/core/constants.py:53
 msgid "Kannada"
-msgstr ""
+msgstr "Güney Hindistan'da konuşulan bir dil"
 
 #: pustakalaya_apps/core/constants.py:54
 msgid "Korean"
@@ -887,7 +887,7 @@ msgstr "Kitaplar tarafından"
 
 #: pustakalaya_apps/core/templates/core/author_detail.html:16
 msgid "View author's book"
-msgstr ""
+msgstr "Yazar'ın kitabını görüntüleyin"
 
 #: pustakalaya_apps/core/templates/core/author_detail.html:19
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:185
@@ -2134,7 +2134,8 @@ msgid "\n"
 "          limited. However, please contact Pustakalaya Administrator to discuss this issue. It is very\n"
 "          possible that you could be granted this right.\n"
 "          "
-msgstr ""
+msgstr "\n"
+"Şuanda, Pustakalaya topluluklarında koleksiyonlar oluşturma izinleri oldukça sınırlıdır. Ancak, lütfen Pustakalaya Yönetimi ile iletişim kurarak bu konuyu görüşünüz. Bu hakkı elde etmeniz oldukça olasıdır.          "
 
 #: templates/static_pages/help.html:349
 msgid "\n"
@@ -2172,7 +2173,7 @@ msgid "\n"
 "          activities, and exercises that are meant to supplement the national curriculum. There are\n"
 "          activities continuously being added, so please check for our latest activities.\n"
 "          "
-msgstr ""
+msgstr "E-Paath OLE Nepal tarafından geliştirilmiş içerisinde ulusal ders müfredatını destekleyecek nitelikte ders planları, sınıf aktiviteleri ve alıştırmaları bulunan eğitimsel bir yazılımdır. Sürekli olarak yeni aktiviteler eklenmektedir, lütfen en son aktiviteler için bakınız."
 
 #: templates/static_pages/sign_up.html:13
 msgid "Register with basic information, Complete your profile and start browsing Pustakalaya"
