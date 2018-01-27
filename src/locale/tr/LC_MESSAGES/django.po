@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-27 08:42-0500\n"
+"PO-Revision-Date: 2018-01-27 08:52-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: pustakalaya\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /master/src/locale/hu/LC_MESSAGES/django.po\n"
+"X-Crowdin-File: /master/src/locale/it/LC_MESSAGES/django.po\n"
 
 #: pustakalaya/forms.py:8
 msgid "Name"
@@ -26,7 +26,7 @@ msgstr "İsminiz"
 
 #: pustakalaya/forms.py:16 pustakalaya/forms.py:20
 msgid "Email"
-msgstr "Eposta"
+msgstr "E-posta"
 
 #: pustakalaya/forms.py:25
 msgid "Country"
@@ -47,7 +47,7 @@ msgstr "Adresiniz"
 
 #: pustakalaya/forms.py:49
 msgid "Suggestion"
-msgstr "Öneri"
+msgstr "Tavsiye"
 
 #: pustakalaya/forms.py:54
 msgid "Your Message"
@@ -68,23 +68,23 @@ msgstr "Ses"
 
 #: pustakalaya_apps/audio/models.py:29
 msgid "Audio types"
-msgstr "Ses tipleri"
+msgstr "Ses türleri"
 
 #: pustakalaya_apps/audio/models.py:34
 msgid "Add this audio to these collection"
-msgstr "Bu sesi bu koleksiyona ekleyin"
+msgstr "Bu sesi koleksiyona ekleyin"
 
 #: pustakalaya_apps/audio/models.py:43 pustakalaya_apps/video/models.py:115
 msgid "Running time in minutes"
-msgstr "Dakika olarak çalışma süresi"
+msgstr "Dakikada çalışma süresi"
 
 #: pustakalaya_apps/audio/models.py:53
 msgid "Read / Voice by"
-msgstr "Oku / Sesli"
+msgstr "Oku / Ses ile"
 
 #: pustakalaya_apps/audio/models.py:61
 msgid "Audio publisher"
-msgstr "Ses yayımcısı"
+msgstr "Ses yayıncısı"
 
 #: pustakalaya_apps/audio/models.py:66 pustakalaya_apps/document/models.py:160
 msgid "Select list of keywords"
@@ -100,7 +100,7 @@ msgstr "Diller"
 
 #: pustakalaya_apps/audio/models.py:88
 msgid "Audio Series / Volume"
-msgstr "Ses Serisi / Hacimi"
+msgstr "Ses Serisi / Düzeyi"
 
 #: pustakalaya_apps/audio/models.py:95 pustakalaya_apps/document/models.py:170
 #: pustakalaya_apps/video/models.py:87
@@ -109,7 +109,7 @@ msgstr "Sponsor"
 
 #: pustakalaya_apps/audio/models.py:166 pustakalaya_apps/video/models.py:226
 msgid "Genre name"
-msgstr "Tür ismi"
+msgstr "Tür adı"
 
 #: pustakalaya_apps/audio/models.py:171 pustakalaya_apps/video/models.py:231
 msgid "Genre description"
@@ -143,7 +143,7 @@ msgstr "Çocuk Şarkısı"
 
 #: pustakalaya_apps/audio/models.py:236
 msgid "Audio type"
-msgstr "Ses Türü"
+msgstr "Ses Tipi"
 
 #: pustakalaya_apps/audio/models.py:241
 msgid "Audio description"
@@ -151,7 +151,7 @@ msgstr "Ses açıklaması"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:87
 msgid "Read by/Voice:"
-msgstr "Okuyan kişi/Ses:"
+msgstr "Okuyan/Seslendiren:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:106
 #: pustakalaya_apps/document/templates/document/document_detail.html:186
@@ -163,13 +163,13 @@ msgstr "Yayımcı:"
 #: pustakalaya_apps/document/templates/document/document_detail.html:196
 #: pustakalaya_apps/video/templates/video/video_detail.html:112
 msgid "Place of publication:"
-msgstr "Yayım yeri:"
+msgstr "Yayınlanma yeri:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:124
 #: pustakalaya_apps/document/templates/document/document_detail.html:207
 #: pustakalaya_apps/video/templates/video/video_detail.html:118
 msgid "publication year:"
-msgstr "yayın yılı:"
+msgstr "yayınlanma yılı:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:130
 msgid "read by:"
@@ -186,13 +186,13 @@ msgstr "tür:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:150
 msgid "series name:"
-msgstr "seri adı:"
+msgstr "seri ismi:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:159
 #: pustakalaya_apps/document/templates/document/document_detail.html:219
 #: pustakalaya_apps/video/templates/video/video_detail.html:125
 msgid "available year:"
-msgstr "mevcut yıl:"
+msgstr "ulaşılabilir yıl:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:166
 #: pustakalaya_apps/document/templates/document/document_detail.html:228
@@ -228,7 +228,7 @@ msgstr "eğitim seviyeleri"
 #: pustakalaya_apps/document/templates/document/document_detail.html:337
 #: pustakalaya_apps/video/templates/video/video_detail.html:220
 msgid "right:"
-msgstr "hak:"
+msgstr "haklar:"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:222
 #: pustakalaya_apps/document/templates/document/document_detail.html:348
@@ -243,12 +243,12 @@ msgstr "Kategoriler"
 #: pustakalaya_apps/collection/models.py:18
 #: pustakalaya_apps/community/models.py:10
 msgid "Literature and arts"
-msgstr "Edebiyat ve sanat"
+msgstr "Edebiyat ve güzel sanatlar"
 
 #: pustakalaya_apps/collection/models.py:19
 #: pustakalaya_apps/community/models.py:11
 msgid "Course materials"
-msgstr "Ders Materyalleri"
+msgstr "Ders materyalleri"
 
 #: pustakalaya_apps/collection/models.py:20
 #: pustakalaya_apps/community/models.py:12
@@ -275,11 +275,11 @@ msgstr "Topluluk"
 
 #: pustakalaya_apps/collection/models.py:33
 msgid "Collection name"
-msgstr "Koleksiyon Adı"
+msgstr "Koleksiyon ismi"
 
 #: pustakalaya_apps/collection/models.py:39
 msgid "Collection description"
-msgstr "Koleksiyon Açıklaması"
+msgstr "Koleksiyon açıklaması"
 
 #: pustakalaya_apps/collection/templates/collection/collection_detail.html:17
 msgid "section"
@@ -289,13 +289,13 @@ msgstr "bölüm"
 #: pustakalaya_apps/core/templates/core/author_books.html:18
 #: pustakalaya_apps/core/templates/core/keyword_detail.html:25
 msgid "total available"
-msgstr "toplam mevcut"
+msgstr "toplam kullanılabilirlik"
 
 #: pustakalaya_apps/collection/templates/collection/collection_detail.html:34
 #: pustakalaya_apps/core/templates/core/author_books.html:20
 #: pustakalaya_apps/core/templates/core/keyword_detail.html:27
 msgid "Sort by"
-msgstr "Göre sırala"
+msgstr "Sırala"
 
 #: pustakalaya_apps/community/models.py:14
 msgid "Newpapers and magazines"
@@ -307,25 +307,25 @@ msgstr "Topluluk tanımı"
 
 #: pustakalaya_apps/core/abstract_models.py:14
 msgid "Created date"
-msgstr "Oluşturulma Tarihi"
+msgstr "Oluşturulma tarihi"
 
 #: pustakalaya_apps/core/abstract_models.py:15
 msgid "Updated date"
-msgstr "Güncellenme Tarihi"
+msgstr "Güncelleme tarihi"
 
 #: pustakalaya_apps/core/abstract_models.py:28
 #: pustakalaya_apps/pustakalaya_account/models.py:12
 msgid "First name"
-msgstr "İlk ad"
+msgstr "Ad"
 
 #: pustakalaya_apps/core/abstract_models.py:31
 msgid "Middle name"
-msgstr "İkinci isim"
+msgstr "İkinci Ad"
 
 #: pustakalaya_apps/core/abstract_models.py:32
 #: pustakalaya_apps/pustakalaya_account/models.py:18
 msgid "Last name"
-msgstr "Soyisim"
+msgstr "Soyadı"
 
 #: pustakalaya_apps/core/abstract_models.py:34
 #: pustakalaya_apps/core/abstract_models.py:88
@@ -351,20 +351,20 @@ msgstr "Tür"
 
 #: pustakalaya_apps/core/abstract_models.py:59
 msgid "Creator image"
-msgstr "Oluşturucu Görüntüsü"
+msgstr "Oluşturucu Resmi"
 
 #: pustakalaya_apps/core/abstract_models.py:83
 msgid "Series name"
-msgstr "Seri Adı"
+msgstr "Seri adı"
 
 #: pustakalaya_apps/core/abstract_models.py:99
 #: pustakalaya_apps/core/abstract_models.py:102
 msgid "Creative commons"
-msgstr "Yaratıcı kitleler"
+msgstr "Yaratıcı grup"
 
 #: pustakalaya_apps/core/abstract_models.py:100
 msgid "Copyright retained"
-msgstr "Telif Hakkı saklıdır"
+msgstr "Telif hakkı saklıdır"
 
 #: pustakalaya_apps/core/abstract_models.py:101
 msgid "Apache license 2.0"
@@ -372,7 +372,7 @@ msgstr "Apache lisansı 2.0"
 
 #: pustakalaya_apps/core/abstract_models.py:103
 msgid "MIT License"
-msgstr "MIT lisansı"
+msgstr "MIT Lisansı"
 
 #: pustakalaya_apps/core/abstract_models.py:104
 msgid "Custom License"
@@ -380,12 +380,12 @@ msgstr "Kişisel Lisans"
 
 #: pustakalaya_apps/core/abstract_models.py:105
 msgid "Not available"
-msgstr "Kullanılmıyor"
+msgstr "Mevcut Değil"
 
 #: pustakalaya_apps/core/abstract_models.py:109
 #: pustakalaya_apps/document/apps.py:7
 msgid "Document"
-msgstr "Döküman"
+msgstr "Belge"
 
 #: pustakalaya_apps/core/abstract_models.py:111
 #: pustakalaya_apps/video/apps.py:7
@@ -398,7 +398,7 @@ msgstr "Görüntü"
 
 #: pustakalaya_apps/core/abstract_models.py:113
 msgid "Wikipedia"
-msgstr "Wikipedia"
+msgstr "Vikipedi"
 
 #: pustakalaya_apps/core/abstract_models.py:114
 msgid "Map"
@@ -411,7 +411,7 @@ msgstr "Başlık"
 
 #: pustakalaya_apps/core/abstract_models.py:123
 msgid "Abstract/Summary"
-msgstr "Öz/Özet"
+msgstr "Genelbakış/Özet"
 
 #: pustakalaya_apps/core/abstract_models.py:135
 msgid "Additional Note"
@@ -419,7 +419,7 @@ msgstr "Ek Not"
 
 #: pustakalaya_apps/core/abstract_models.py:147
 msgid "License type"
-msgstr "Lisans Türü"
+msgstr "Lisans Tipi"
 
 #: pustakalaya_apps/core/abstract_models.py:153
 msgid "Rights"
@@ -427,15 +427,15 @@ msgstr "Haklar"
 
 #: pustakalaya_apps/core/abstract_models.py:158
 msgid "Year of available"
-msgstr "Geçerlilik yılı"
+msgstr "Mevcut olduğu yıl"
 
 #: pustakalaya_apps/core/abstract_models.py:164
 msgid "Publication year"
-msgstr "Yayın yılı"
+msgstr "Yayımlanma tarihi"
 
 #: pustakalaya_apps/core/abstract_models.py:170
 msgid "Place of publication"
-msgstr "Yayın yeri"
+msgstr "Yayımlanma Yeri"
 
 #: pustakalaya_apps/core/abstract_models.py:188
 msgid "Featured"
@@ -479,67 +479,67 @@ msgstr "Arapça"
 
 #: pustakalaya_apps/core/constants.py:6
 msgid "Asturian"
-msgstr "Avusturya dili"
+msgstr "Asturyalı"
 
 #: pustakalaya_apps/core/constants.py:7
 msgid "Azerbaijani"
-msgstr "Azerbaycan dili"
+msgstr "Azeri"
 
 #: pustakalaya_apps/core/constants.py:8
 msgid "Bulgarian"
-msgstr "Bulgarca"
+msgstr "Bulgar"
 
 #: pustakalaya_apps/core/constants.py:9
 msgid "Belarusian"
-msgstr "Beyaz Rusça"
+msgstr "Belaruslu"
 
 #: pustakalaya_apps/core/constants.py:10
 msgid "Bengali"
-msgstr "Bengalce"
+msgstr "Bengalli"
 
 #: pustakalaya_apps/core/constants.py:11
 msgid "Breton"
-msgstr "Bretonca"
+msgstr "Bretonyalı"
 
 #: pustakalaya_apps/core/constants.py:12
 msgid "Bosnian"
-msgstr "Boşnakça"
+msgstr "Boşnak"
 
 #: pustakalaya_apps/core/constants.py:13
 msgid "Catalan"
-msgstr "Katalanca"
+msgstr "Katalan"
 
 #: pustakalaya_apps/core/constants.py:14
 msgid "Czech"
-msgstr "Çekçe"
+msgstr "Çek"
 
 #: pustakalaya_apps/core/constants.py:15
 msgid "Welsh"
-msgstr "Galce"
+msgstr "Galili"
 
 #: pustakalaya_apps/core/constants.py:16
 msgid "Danish"
-msgstr "Danimarka dili"
+msgstr "Danca"
 
 #: pustakalaya_apps/core/constants.py:17
 msgid "German"
-msgstr "Almanca"
+msgstr "Alman"
 
 #: pustakalaya_apps/core/constants.py:18
 msgid "Lower Sorbian"
-msgstr "Aşağı Sorbca"
+msgstr "Aşağı Sırbistanlı"
 
 #: pustakalaya_apps/core/constants.py:19
 msgid "Greek"
-msgstr "Yunanca"
+msgstr "Yunan"
 
 #: pustakalaya_apps/core/constants.py:21
 msgid "Australian English"
-msgstr "Avusturalya İnglizcesi"
+msgstr "Avustralya İngilizcesi"
 
 #: pustakalaya_apps/core/constants.py:22
 msgid "British English"
-msgstr "Britanya İngilizcesi"
+msgstr "İngiliz İngilizcesi"
 
 #: pustakalaya_apps/core/constants.py:23
 msgid "Esperanto"
@@ -551,7 +551,7 @@ msgstr "İspanyolca"
 
 #: pustakalaya_apps/core/constants.py:25
 msgid "Argentinian Spanish"
-msgstr "Arjartin İspanyolcası"
+msgstr "Arjantin İspanyolcası"
 
 #: pustakalaya_apps/core/constants.py:26
 msgid "Colombian Spanish"
@@ -559,7 +559,7 @@ msgstr "Kolombiya İspanyolcası"
 
 #: pustakalaya_apps/core/constants.py:27
 msgid "Mexican Spanish"
-msgstr "Mexica İspanyolcası"
+msgstr "Meksika İspanyolcası"
 
 #: pustakalaya_apps/core/constants.py:28
 msgid "Nicaraguan Spanish"
@@ -571,11 +571,11 @@ msgstr "Venezuela İspanyolcası"
 
 #: pustakalaya_apps/core/constants.py:30
 msgid "Estonian"
-msgstr "Estonya Dili"
+msgstr "Estonyalı"
 
 #: pustakalaya_apps/core/constants.py:31
 msgid "Basque"
-msgstr "Bask dili"
+msgstr "Basklı"
 
 #: pustakalaya_apps/core/constants.py:32
 msgid "Persian"
@@ -595,15 +595,15 @@ msgstr "Frizce"
 
 #: pustakalaya_apps/core/constants.py:36
 msgid "Irish"
-msgstr "Irlanda dili"
+msgstr "İrlandaca"
 
 #: pustakalaya_apps/core/constants.py:37
 msgid "Scottish Gaelic"
-msgstr "Kırım Tatarca"
+msgstr "İskoç Galcesi"
 
 #: pustakalaya_apps/core/constants.py:38
 msgid "Galician"
-msgstr "Galiçya lehçesi"
+msgstr "Galiçyaca"
 
 #: pustakalaya_apps/core/constants.py:39
 msgid "Hebrew"
@@ -663,7 +663,7 @@ msgstr "Kmerce"
 
 #: pustakalaya_apps/core/constants.py:53
 msgid "Kannada"
-msgstr "Kannada dili"
+msgstr "Kannada"
 
 #: pustakalaya_apps/core/constants.py:54
 msgid "Korean"
@@ -671,7 +671,7 @@ msgstr "Korece"
 
 #: pustakalaya_apps/core/constants.py:55
 msgid "Luxembourgish"
-msgstr "Lüksemburg dili"
+msgstr "Lüksemburgca"
 
 #: pustakalaya_apps/core/constants.py:56
 msgid "Lithuanian"
@@ -679,7 +679,7 @@ msgstr "Litvanca"
 
 #: pustakalaya_apps/core/constants.py:57
 msgid "Latvian"
-msgstr "Letonca"
+msgstr "Letonya dili"
 
 #: pustakalaya_apps/core/constants.py:58
 msgid "Macedonian"
@@ -699,11 +699,11 @@ msgstr "Marathi dili"
 
 #: pustakalaya_apps/core/constants.py:62
 msgid "Burmese"
-msgstr "Birmanca"
+msgstr "Birmanya dili"
 
 #: pustakalaya_apps/core/constants.py:63
 msgid "Norwegian Bokmål"
-msgstr "Norveççe Bokmalcası"
+msgstr "Norveçce Bokmål"
 
 #: pustakalaya_apps/core/constants.py:65
 msgid "Dutch"
@@ -715,7 +715,7 @@ msgstr "Newari dili"
 
 #: pustakalaya_apps/core/constants.py:67
 msgid "Norwegian Nynorsk"
-msgstr "Norveççe Nyorskçası"
+msgstr "Norveçce Nynorsk"
 
 #: pustakalaya_apps/core/constants.py:68
 msgid "Ossetic"
@@ -727,7 +727,7 @@ msgstr "Pencap dili"
 
 #: pustakalaya_apps/core/constants.py:70
 msgid "Polish"
-msgstr "Lehçe"
+msgstr "Polonya dili"
 
 #: pustakalaya_apps/core/constants.py:71
 msgid "Portuguese"
@@ -767,7 +767,7 @@ msgstr "Latin Sırpçası"
 
 #: pustakalaya_apps/core/constants.py:80
 msgid "Swedish"
-msgstr "İsveçce"
+msgstr "İsveççe"
 
 #: pustakalaya_apps/core/constants.py:81
 msgid "Swahili"
@@ -783,7 +783,7 @@ msgstr "Teluguca"
 
 #: pustakalaya_apps/core/constants.py:84
 msgid "Thai"
-msgstr "Tayland dili"
+msgstr "Tayca"
 
 #: pustakalaya_apps/core/constants.py:85
 msgid "Turkish"
@@ -807,7 +807,7 @@ msgstr "Urduca"
 
 #: pustakalaya_apps/core/constants.py:90
 msgid "Vietnamese"
-msgstr "Vietnam dili"
+msgstr "Vietnamca"
 
 #: pustakalaya_apps/core/constants.py:91
 msgid "Simplified Chinese"
@@ -819,7 +819,7 @@ msgstr "Geleneksel Çince"
 
 #: pustakalaya_apps/core/models.py:13
 msgid "Category name"
-msgstr "Kategori Adı"
+msgstr "Kategori ismi"
 
 #: pustakalaya_apps/core/models.py:18
 msgid "Category description"
@@ -827,23 +827,23 @@ msgstr "Kategori açıklaması"
 
 #: pustakalaya_apps/core/models.py:30 pustakalaya_apps/document/models.py:155
 msgid "Publisher name"
-msgstr "Yayımcı adı"
+msgstr "Yayımlayıcı adı"
 
 #: pustakalaya_apps/core/models.py:36
 msgid "Publisher description"
-msgstr "Yayımcı açıklaması"
+msgstr "Yayımlayıcı açıklaması"
 
 #: pustakalaya_apps/core/models.py:51
 msgid "Keyword"
-msgstr "Anahtar kelime"
+msgstr "Anahtar Kelime"
 
 #: pustakalaya_apps/core/models.py:56
 msgid "Keyword description"
-msgstr "Anahtar kelime açıklaması"
+msgstr "Anahtar Kelime açıklaması"
 
 #: pustakalaya_apps/core/models.py:71
 msgid "Search Keywords"
-msgstr "Anahtar Kelimeleri Ara"
+msgstr "Anahtar Kelime Arama"
 
 #: pustakalaya_apps/core/models.py:79
 msgid "Author"
@@ -851,19 +851,19 @@ msgstr "Yazar"
 
 #: pustakalaya_apps/core/models.py:86
 msgid "Sponsor Name"
-msgstr "Sponsor Adı"
+msgstr "Sponsor İsmi"
 
 #: pustakalaya_apps/core/models.py:105
 msgid "Early primary level"
-msgstr "İlköğretim Öncesi Seviye"
+msgstr "Okul öncesi seviye"
 
 #: pustakalaya_apps/core/models.py:106
 msgid "Primary level"
-msgstr "İlköğretim seviyesi"
+msgstr "İlkokul seviyesi"
 
 #: pustakalaya_apps/core/models.py:107
 msgid "Middle school level"
-msgstr "Orta okul seviyesi"
+msgstr "Ortaokul düzeyi"
 
 #: pustakalaya_apps/core/models.py:108
 msgid "Highschool level"
@@ -871,7 +871,7 @@ msgstr "Lise seviyesi"
 
 #: pustakalaya_apps/core/models.py:109
 msgid "Intermediate level"
-msgstr "Orta düzey"
+msgstr "Orta Seviye"
 
 #: pustakalaya_apps/core/models.py:113 pustakalaya_apps/video/models.py:54
 msgid "Education Level"
@@ -883,11 +883,11 @@ msgstr "Dil"
 
 #: pustakalaya_apps/core/templates/core/author_books.html:13
 msgid "Books by"
-msgstr "Kitapların yazarı"
+msgstr "Kitaplar tarafından"
 
 #: pustakalaya_apps/core/templates/core/author_detail.html:16
 msgid "View author's book"
-msgstr "Yazarın kitabını görüntüle"
+msgstr "Yazar'ın kitabını görüntüle"
 
 #: pustakalaya_apps/core/templates/core/author_detail.html:19
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:185
@@ -913,7 +913,7 @@ msgstr "MB"
 
 #: pustakalaya_apps/core/templatetags/pustakalaya_filters.py:97
 msgid "GB"
-msgstr "Gigabayt"
+msgstr "Gigabyte"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/footer.html:9
 msgid "HELP"
@@ -929,11 +929,11 @@ msgstr "ŞARTLAR VE KOŞULLAR"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/footer.html:24
 msgid "ole nepal"
-msgstr "ole nepal"
+msgstr ""
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/navbar.html:11
 msgid "pustakalaya dashboard"
-msgstr "pustakalaya paneli"
+msgstr "pustakalaya kontrol paneli"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/navbar.html:18
 msgid "stat"
@@ -947,7 +947,7 @@ msgstr "ayarlar"
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/navbar.html:44
 #: templates/account/password_reset_from_key.html:18
 msgid "change password"
-msgstr "parola değiştir"
+msgstr "şifre değiştir"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/navbar.html:46
 msgid "manage email"
@@ -959,7 +959,7 @@ msgstr "Sosyal hesaplar"
 
 #: pustakalaya_apps/document/models.py:50
 msgid "Not applicable"
-msgstr "Uygulanabilir değil"
+msgstr "Uygulanamaz"
 
 #: pustakalaya_apps/document/models.py:54
 msgid "Book"
@@ -999,7 +999,7 @@ msgstr "Docx"
 
 #: pustakalaya_apps/document/models.py:67
 msgid "PDF"
-msgstr "PDF"
+msgstr "Taşınabilir Belge Biçimi"
 
 #: pustakalaya_apps/document/models.py:68
 msgid "Excel"
@@ -1011,11 +1011,11 @@ msgstr "E-pub"
 
 #: pustakalaya_apps/document/models.py:70
 msgid "Rtf"
-msgstr "RTF"
+msgstr ""
 
 #: pustakalaya_apps/document/models.py:71
 msgid "Mobi"
-msgstr "Mobi"
+msgstr ""
 
 #: pustakalaya_apps/document/models.py:76
 msgid "Add to these collections"
@@ -1027,11 +1027,11 @@ msgstr "Belge tipi"
 
 #: pustakalaya_apps/document/models.py:86
 msgid "Document file type"
-msgstr "Belge dosyası tipi"
+msgstr "Döküman dosyası tipi"
 
 #: pustakalaya_apps/document/models.py:94
 msgid "Series"
-msgstr "Dizi"
+msgstr "Seriler"
 
 #: pustakalaya_apps/document/models.py:100
 msgid "Education Levels"
@@ -1047,7 +1047,7 @@ msgstr "İnteraktif"
 
 #: pustakalaya_apps/document/models.py:127
 msgid "Total Pages"
-msgstr "Toplam Sayfa Sayısı"
+msgstr "Toplam Sayfalar"
 
 #: pustakalaya_apps/document/models.py:134
 msgid "Author(s)"
@@ -1067,31 +1067,31 @@ msgstr "Tanımlayıcı Tipi"
 
 #: pustakalaya_apps/document/models.py:329
 msgid "ISSN"
-msgstr "ISSN"
+msgstr ""
 
 #: pustakalaya_apps/document/models.py:330
 msgid "ISMN"
-msgstr "ISMN"
+msgstr ""
 
 #: pustakalaya_apps/document/models.py:331
 msgid "Gov't Doc"
-msgstr "Doküman yok"
+msgstr ""
 
 #: pustakalaya_apps/document/models.py:332
 msgid "URI"
-msgstr "URI"
+msgstr ""
 
 #: pustakalaya_apps/document/models.py:333
 msgid "ISBN"
-msgstr "ISBN"
+msgstr ""
 
 #: pustakalaya_apps/document/models.py:337
 msgid "Identifier ID"
-msgstr "Tanımlayıcı Kimliği"
+msgstr "Kimlik bilgisi"
 
 #: pustakalaya_apps/document/models.py:344
 msgid "document"
-msgstr "belge"
+msgstr "döküman"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:44
 msgid "download "
@@ -1099,7 +1099,7 @@ msgstr "indir "
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:48
 msgid "read"
-msgstr "okumak"
+msgstr "oku"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:54
 msgid "File size: "
@@ -1116,7 +1116,7 @@ msgstr "Tanımlayıcılar:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:160
 msgid "illustrators:"
-msgstr "tanımlayıcılar:"
+msgstr "illüstratörler:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:172
 msgid "Editors:"
@@ -1125,7 +1125,7 @@ msgstr "Editörler:"
 #: pustakalaya_apps/document/templates/document/document_detail.html:263
 #: pustakalaya_apps/video/templates/video/video_detail.html:163
 msgid "Series:"
-msgstr "Dizi:"
+msgstr "Seriler:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:272
 msgid "edition:"
@@ -1133,11 +1133,11 @@ msgstr "yayım:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:283
 msgid "volume:"
-msgstr "cilt:"
+msgstr "seviye:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:303
 msgid "total pages"
-msgstr "toplam sayfa sayısı"
+msgstr "toplam sayfalar"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:330
 msgid "interactivity"
@@ -1145,7 +1145,7 @@ msgstr "etkileşim"
 
 #: pustakalaya_apps/pustakalaya_account/models.py:22
 msgid "Phone no"
-msgstr "Telefon numarası"
+msgstr "Telefon no"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:161
 msgid "Media type"
@@ -1156,7 +1156,7 @@ msgstr "Medya tipi"
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:345
 #, python-format
 msgid " %(type)s "
-msgstr " %(type)s "
+msgstr " %(type)s ı"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:238
 msgid "more"
@@ -1188,7 +1188,7 @@ msgstr "lisans tipi"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:418
 msgid "results found in "
-msgstr "içinde bulunan sonuçlar "
+msgstr "sonuç bulunamadı "
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:419
 msgid "sec"
@@ -1196,15 +1196,15 @@ msgstr "sn"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:440
 msgid "Views"
-msgstr "Görüntülenme"
+msgstr "Görüntüleme"
 
 #: pustakalaya_apps/pustakalaya_search/templates/pustakalaya_search/search_result.html:509
 msgid "result not found"
-msgstr "sonuç bulunamadı"
+msgstr "sonuçlar bulunamadı"
 
 #: pustakalaya_apps/video/models.py:33
 msgid "Add this video to these collection"
-msgstr "Bu videoyu bu koleksiyonlara ekleyin"
+msgstr "Bu videoyu bu koleksiyona ekleyin"
 
 #: pustakalaya_apps/video/models.py:46
 msgid "Producer"
@@ -1212,7 +1212,7 @@ msgstr "Yapımcı"
 
 #: pustakalaya_apps/video/models.py:63
 msgid "Video series"
-msgstr "Video serisi"
+msgstr "Video dizisi"
 
 #: pustakalaya_apps/video/models.py:75
 msgid "Certification"
@@ -1240,15 +1240,15 @@ msgstr "çalışma süresi"
 
 #: pustakalaya_apps/video/templates/video/video_detail.html:183
 msgid "certificate license:"
-msgstr "sertifika lisansı:"
+msgstr "lisans sertifikası:"
 
 #: templates/404.html:5
 msgid "Oops broken page  404 Not found"
-msgstr "Ups bozuk sayfa 404 Bulunamadı"
+msgstr "Oops hatalı sayfa 404 bulunamadı"
 
 #: templates/500.html:5
 msgid "Some server error :("
-msgstr "Bir çeşit sunucu hatası :("
+msgstr "Bazı sunucu hataları :("
 
 #: templates/_partials/footer.html:11 templates/_partials/navbar.html:55
 #: templates/_partials/navbar1.html:57
@@ -1261,11 +1261,11 @@ msgstr "Blog"
 
 #: templates/_partials/footer.html:31
 msgid "Developed By"
-msgstr "Tarafından Geliştirildi"
+msgstr "Tarafından geliştirilen"
 
 #: templates/_partials/footer.html:32
 msgid "OLE Nepal"
-msgstr "OLE Nepal"
+msgstr ""
 
 #: templates/_partials/login_form.html:20
 msgid "Login with your registered Email &amp; Password."
@@ -1273,32 +1273,31 @@ msgstr "Kayıtlı E-posta Adresiniz &amp; Parolanız ile oturum açın."
 
 #: templates/_partials/login_form.html:34 templates/account/login.html:45
 msgid "Forgot Password?"
-msgstr "Parolanızı mı unuttunuz?"
+msgstr "Şifrenizi mi unuttunuz?"
 
 #: templates/_partials/login_form.html:35 templates/account/login.html:7
 #: templates/account/login.html:11 templates/account/login.html:46
 msgid "Sign In"
-msgstr "Oturuç Aç"
+msgstr "Kayıt Ol"
 
 #: templates/_partials/login_form.html:41
 #, python-format
 msgid "Please sign in with one\n"
 "            of your existing third party accounts. Or, <a href=\"%(signup_url)s\">sign up</a>\n"
 "            for a %(site_name)s account and sign in below:"
-msgstr "Lütfen varolan üçüncü\n"
-"            taraf hesaplarınızdan biri ile oturum açın. Veya, bir %(site_name)s hesabı için\n"
-"            <a href=\"%(signup_url)s\">kaydolun</a> ve aşağıdan oturum açın:"
+msgstr "Lütfen varolan üçüncü parti hesaplarınızdan\n"
+"            biriyle oturum açın. Veya,<a href=\"%(signup_url)s\">kayıtol</a> için %(site_name)s \n"
+"            aşağıdan oturum açın:"
 
 #: templates/_partials/login_form.html:57
 #, python-format
 msgid "If you have not created an account yet, then please\n"
 "            <a href=\"%(signup_url)s\">sign up</a> first."
-msgstr "Eğer bir hesabınız yoksa, lütfen önce\n"
-"           <a href=\"%(signup_url)s\">kayıt olun</a>."
+msgstr "Eğer henüz bir hesap oluşturamadıysanız, lütfen ilk  <a href=\"%(signup_url)s\">kayıt ol</a>."
 
 #: templates/_partials/navbar.html:39 templates/_partials/navbar1.html:41
 msgid "Home"
-msgstr "Anasayfa"
+msgstr "An Sayfa"
 
 #: templates/_partials/navbar.html:51 templates/_partials/navbar1.html:53
 msgid "Authors"
@@ -1323,7 +1322,7 @@ msgstr "oturumu kapat"
 
 #: templates/_partials/search_form.html:13
 msgid "Search pustakalaya"
-msgstr "Pustakalaya da ara"
+msgstr "Pustakalaya'da Ara"
 
 #: templates/_partials/sorting_form.html:12
 msgid "updated date"
@@ -1344,7 +1343,7 @@ msgstr "Azalan"
 #: templates/account/account_inactive.html:5
 #: templates/account/account_inactive.html:9
 msgid "Account Inactive"
-msgstr "Hesap aktif değil"
+msgstr "Hesap Aktif Değil"
 
 #: templates/account/account_inactive.html:11
 msgid "This account is inactive."
@@ -1360,15 +1359,15 @@ msgstr "E-posta Adresleri"
 
 #: templates/account/email.html:11
 msgid "The following e-mail addresses are associated with your account:"
-msgstr "Aşağıdaki e-posta adresleri hesabınızla ilişkilidir:"
+msgstr "Aşağıdaki e-posta adresleri hesabınızla ilişkili:"
 
 #: templates/account/email.html:28
 msgid "Verified"
-msgstr "Doğrulanmış"
+msgstr "Onaylanmış"
 
 #: templates/account/email.html:30
 msgid "Unverified"
-msgstr "Doğrulanmamış"
+msgstr "Onaylanmamış"
 
 #: templates/account/email.html:33
 msgid "Primary"
@@ -1376,11 +1375,11 @@ msgstr "Birincil"
 
 #: templates/account/email.html:40
 msgid "Make Primary"
-msgstr "Birincil Yap"
+msgstr "Öncelikli Yap"
 
 #: templates/account/email.html:42
 msgid "Re-send Verification"
-msgstr "Onaylamayı Tekrar Gönder"
+msgstr "Doğrulamayı Yeniden Gönder"
 
 #: templates/account/email.html:43
 msgid "Remove"
@@ -1392,76 +1391,75 @@ msgstr "Uyarı:"
 
 #: templates/account/email.html:51
 msgid "You currently do not have any e-mail address set up. You should really add an e-mail address so you can receive notifications, reset your password, etc."
-msgstr "Şu anda herhangi bir e-posta adresi ayarlamadınız. Bildirimleri alabilmek, şifrenizi sıfırlamak vb durumlar için bir e-posta adresi eklemelisiniz."
+msgstr "Şu anda herhangi bir e-posta adresi ayarlamadınız. Bildirimleri almak, parolanızı sıfırlama vb. işlemler için geçerli bir e-posta adresi eklemelisiniz."
 
 #: templates/account/email.html:57
 msgid "Add E-mail Address"
-msgstr "E-posta Adresi Ekle"
+msgstr "E-posta adresi ekle"
 
 #: templates/account/email.html:62
 msgid "Add E-mail"
-msgstr "E-posta Ekle"
+msgstr "E-posta ekle"
 
 #: templates/account/email.html:72
 msgid "Do you really want to remove the selected e-mail address?"
-msgstr "Seçilen e-posta adresini gerçekten kaldırmak istiyor musunuz?"
+msgstr "Seçili e-posta adresini gerçekten kaldırmak istediğinizden emin misiniz?"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
 msgid "Hello from %(site_name)s!\n\n"
 "You're receiving this e-mail because user %(user_display)s has given yours as an e-mail address to connect their account.\n\n"
 "To confirm this is correct, go to %(activate_url)s\n"
-msgstr "%(site_name)s 'den merhaba!\n\n"
-"Bu e-postayı alıyorsunuz çünkü %(user_display)s kullanıcısı hesabına bağlanacak e-posta adresi olarak sizinkini verdi. \n\n"
-"Bunun doğruluğunu onaylamak için, %(activate_url)s 'e gidiniz\n"
+msgstr "%(site_name)s adresinden merhaba!\n\n"
+"Bu e-postayı alıyorsunuz çünkü %(user_display)s adlı kullanıcı, kendi hesabına bağlamak için e-posta adresinizi kullanmak istiyor.\n\n"
+"Bu talebi onaylamak istiyorsanız, bağlantıya tıklayın %(activate_url)s\n"
 
 #: templates/account/email/email_confirmation_message.txt:7
 #, python-format
 msgid "Thank you from %(site_name)s!\n"
 "%(site_domain)s"
-msgstr "%(site_name)s'den Teşekkürler!\n"
-"%(site_domain)s"
+msgstr "%(site_name)s!\n"
+"%(site_domain)s'den teşekkürler"
 
 #: templates/account/email/email_confirmation_subject.txt:3
 msgid "Please Confirm Your E-mail Address"
-msgstr "Lütfen E-posta Adresinizi Doğrulayın"
+msgstr "Lütfen E-posta adresinizi doğrulayın"
 
 #: templates/account/email/password_reset_key_message.txt:1
 #, python-format
 msgid "Hello from %(site_name)s!\n\n"
 "You're receiving this e-mail because you or someone else has requested a password for your user account.\n"
 "It can be safely ignored if you did not request a password reset. Click the link below to reset your password."
-msgstr "%(site_name)s'den Selamlar!\n\n"
-"Bu e-postayı alıyorsunuz çünkü siz veya bir başkası kullanıcı hesabınız için parola isteğinde bulundu.\n"
-"Bir şifre sıfırlama talebinde bulunmadıysanız bunu güvenle yok sayabilirsiniz. Şifrenizi sıfırlamak için aşağıdaki bağlantıyı tıklayın."
+msgstr "%(site_name)s'dan merhaba!\n\n"
+"Siz veya başka birisi sizin kullanıcı hesabınız için yeni parola talep edilginden dolayı bu e-postayı aldınız."
 
 #: templates/account/email/password_reset_key_message.txt:8
 #, python-format
 msgid "In case you forgot, your username is %(username)s."
-msgstr "Kullanıcı ismini unuttuysanız, isminiz %(username)s."
+msgstr "Unutmanız durumunda kullanıcı adınız %(username)s."
 
 #: templates/account/email/password_reset_key_message.txt:10
 #, python-format
 msgid "Thank you for using %(site_name)s!\n"
 "%(site_domain)s"
-msgstr "%(site_name)s\n"
-"%(site_domain)s kullandığınız için teşekkür ederiz!"
+msgstr "%(site_name)s!%(site_domain)s kullandığınız için teşekkür ederiz"
 
 #: templates/account/email/password_reset_key_subject.txt:3
 msgid "Password Reset E-mail"
-msgstr "Şifre Sıfırlama E-postası"
+msgstr "Parola Sıfırlama E-postası"
 
 #: templates/account/email_confirm.html:6
 #: templates/account/email_confirm.html:11
 msgid "Confirm E-mail Address"
-msgstr "E-posta Adresinizi Doğrulayın"
+msgstr "E-Posta Adresini Doğrula"
 
 #: templates/account/email_confirm.html:17
 #, python-format
 msgid "Please confirm that\n"
 "            <a href=\"mailto:%(email)s\">%(email)s</a> is an e-mail address for user %(user_display)s\n"
 "            ."
-msgstr "Lütfen bu <a href=\"mailto:%(email)s\"> %(email)s</a> kullanıcı %(user_display)s için e-posta adresi olduğunu doğrulayın."
+msgstr "Lütfen \n"
+"            <a href=\"mailto:%(email)s\">%(email)s</a>bir  kullanıcı  %(user_display)s  e-posta adresi olduğunu onaylayınız."
 
 #: templates/account/email_confirm.html:23
 msgid "Confirm"
@@ -1471,69 +1469,67 @@ msgstr "Doğrula"
 #, python-format
 msgid "This e-mail confirmation link expired or is invalid. Please\n"
 "            <a href=\"%(email_url)s\">issue a new e-mail confirmation request</a>."
-msgstr "Bu e-posta doğrulama likinin süresi geçmiş ya da geçersiz. Lütfen\n"
-"            <a href=\"%(email_url)s\">yeni bir e-posta doğrulama talebinde bulunun."
+msgstr "Bu e-posta doğrulama bağlantısının süresi dolmuş veya geçersiz. Lütfen            <a href=\"%(email_url)s\">yeni bir e-posta doğrulama bağlantısı isteyin</a>."
 
 #: templates/account/login.html:14
 #, python-format
 msgid "Please sign in with one\n"
 "                of your existing third party accounts. Or, <a href=\"%(signup_url)s\">sign up</a>\n"
 "                for a %(site_name)s account and sign in below:"
-msgstr "Lütfen varolan üçüncü\n"
-"                taraf hesaplarınızdan biri ile oturum açın. Veya, bir %(site_name)s hesabı için\n"
-"                <a href=\"%(signup_url)s\">kaydolun</a> ve aşağıdan oturum açın:"
+msgstr "Lütfen varolan üçüncü parti hesaplarınızdan\n"
+"            biriyle oturum açın. Veya, %(site_name)s  hesabı <a href=\"%(signup_url)s\">oluşturup</a>\n"
+"            aşağıdan oturum açın:"
 
 #: templates/account/login.html:32
 msgid "If you have not created an account yet, then please\n"
 "          <a href=\"/accounts/signup/\">sign up</a> first."
-msgstr "Eğer bir hesabınız yoksa, lütfen öncelikle\n"
-"           <a href=\"/accounts/signup/\">kayıt olun</a>."
+msgstr "Eğer henüz bir hesap oluşturmadıysanız, o zaman lütfen ilk olarak           <a href=\"/accounts/signup/\">Hesap Oluşturun</a>."
 
 #: templates/account/logout.html:5 templates/account/logout.html:9
 #: templates/account/logout.html:18
 msgid "Sign Out"
-msgstr "Çıkış"
+msgstr "Oturumu Kapat"
 
 #: templates/account/logout.html:11
 msgid "Are you sure you want to sign out?"
-msgstr "Oturumu sonlandırmak istediğinizden emin misiniz?"
+msgstr "Oturumu kapatmak istediğinizden emin misiniz?"
 
 #: templates/account/messages/cannot_delete_primary_email.txt:2
 #, python-format
 msgid "You cannot remove your primary e-mail address (%(email)s)."
-msgstr "Birincil e-posta adresinizi (%(email)s) kaldıramazsınız."
+msgstr "Birincil e-posta adresinizi(%(email)s) kaldıramazsınız."
 
 #: templates/account/messages/email_confirmation_sent.txt:2
 #, python-format
 msgid "Confirmation e-mail sent to %(email)s."
-msgstr "Doğrulama e-postası %(email)s adresine gönderildi."
+msgstr "Onay e*postası şu adrese gönderildi %(email)s."
 
 #: templates/account/messages/email_confirmed.txt:2
 #, python-format
 msgid "You have confirmed %(email)s."
-msgstr "%(email)s'i onayladınız."
+msgstr "%(email)s adresini onayladınız."
 
 #: templates/account/messages/email_deleted.txt:2
 #, python-format
 msgid "Removed e-mail address %(email)s."
-msgstr "%(email)s e-posta adresi kaldırıldı."
+msgstr "%(email)s adresi kaldırıldı."
 
 #: templates/account/messages/logged_in.txt:4
 #, python-format
 msgid "Successfully signed in as %(name)s."
-msgstr "%(name)s olarak başarıyla oturum açıldı."
+msgstr "%(name)s olarak başarılı bir şekilde oturum açtınız."
 
 #: templates/account/messages/logged_out.txt:2
 msgid "You have signed out."
-msgstr "Oturumunuzu sonlandırdınız."
+msgstr "Oturumu kapattınız."
 
 #: templates/account/messages/password_changed.txt:2
 msgid "Password successfully changed."
-msgstr "Şifre başarıyla değiştirildi."
+msgstr "Parola başarılı bir şekilde değiştirildi."
 
 #: templates/account/messages/password_set.txt:2
 msgid "Password successfully set."
-msgstr "Şifre başarıyla ayarlandı."
+msgstr "Parola başarılı bir şekilde oluşturuldu."
 
 #: templates/account/messages/primary_email_set.txt:2
 msgid "Primary e-mail address set."
@@ -1541,7 +1537,7 @@ msgstr "Birincil e-posta adresi ayarlandı."
 
 #: templates/account/messages/unverified_primary_email.txt:2
 msgid "Your primary e-mail address must be verified."
-msgstr "Birincil e-posta adresiniz doğrulanmalıdır."
+msgstr "Birincil e-posta adresinizin doğrulanması gerekmektedir."
 
 #: templates/account/password_change.html:6
 #: templates/account/password_change.html:9
@@ -1551,44 +1547,44 @@ msgstr "Birincil e-posta adresiniz doğrulanmalıdır."
 #: templates/account/password_reset_from_key_done.html:4
 #: templates/account/password_reset_from_key_done.html:7
 msgid "Change Password"
-msgstr "Şifreyi Değiştir"
+msgstr "Parolayı Değiştir"
 
 #: templates/account/password_reset.html:8
 #: templates/account/password_reset.html:13
 #: templates/account/password_reset_done.html:6
 #: templates/account/password_reset_done.html:10
 msgid "Password Reset"
-msgstr "Şifreyi Sıfırla"
+msgstr "Parola Sıfırla"
 
 #: templates/account/password_reset.html:18
 msgid "Forgotten your password? Enter your e-mail address below, and we'll send you an e-mail allowing you to reset it."
-msgstr "Şifrenizi mi unuttunuz? E-posta adresinizi girin ve size sıfırlamanız için bir e-posta gönderelim."
+msgstr "Parolanızı mı unuttunuz? Aşağıya e-posta adresinizi girin, ve size şifrenizi sıfırlamanıza izin veren bir e-posta gönderelim."
 
 #: templates/account/password_reset.html:25
 msgid "Reset My Password"
-msgstr "Şifremi Sıfırla"
+msgstr "Parolamı sıfırla"
 
 #: templates/account/password_reset.html:29
 msgid "Please contact us if you have any trouble resetting your password."
-msgstr "Şifrenizi sıfırlamakta herhangi bir sorun yaşarsanız, lütfen bizimle iletişime geçin."
+msgstr "Parolanızı sıfırlarken herhangi bir sorun yaşıyorsanız lütfen bizimle iletişime geçin."
 
 #: templates/account/password_reset_done.html:16
 msgid "We have sent you an e-mail. Please contact us if you do not receive it within a few minutes."
-msgstr "Size bir e-posta gönderdik. Birkaç dakika içinde size ulaşmazsa lütfen bizimle iletişime geçin."
+msgstr "Size bir e-posta gönderdik. Eğer birkaç dakika içinde onu almazsanız lütfen bizimle iletişime geçin."
 
 #: templates/account/password_reset_from_key.html:8
 msgid "Bad Token"
-msgstr "Hatalı Simge"
+msgstr "Kötü jeton"
 
 #: templates/account/password_reset_from_key.html:12
 #, python-format
 msgid "The password reset link was invalid, possibly because it has already been used.  Please request a <a href=\"%(passwd_reset_url)s\">new password reset</a>."
-msgstr "Parola sıfırlama bağlantısı geçersiz, çünkü daha önce kullanılmış olabilir.Lütfen <a href=\"%(passwd_reset_url)s\">yeni parola sıfırlama</a> talebinde bulunun."
+msgstr "Muhtemelen daha önce kullanıldığı için, parola sıfırlama bağlantısı geçersiz. Lütfen <a href=\"%(passwd_reset_url)s\">yeni parola sıfırlama</a> talep edin."
 
 #: templates/account/password_reset_from_key.html:21
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password is now changed."
-msgstr "Parolanız şimdi değiştirilmiştir."
+msgstr "Parolanız değişti."
 
 #: templates/account/password_set.html:6 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
@@ -1601,14 +1597,14 @@ msgstr "Kayıt Ol"
 
 #: templates/account/signup.html:11 templates/static_pages/sign_up.html:10
 msgid "Create your Pustakalaya Account"
-msgstr "Pustakalaya Hesabınızı oluşturun"
+msgstr "Pustakalaya Hesabınızı Oluşturun"
 
 #: templates/account/signup.html:13
 #, python-format
 msgid "Already have an account? Then please\n"
 "                    <a href=\"%(login_url)s\">sign in</a>."
-msgstr "Zaten bir hesabınız var mı? O zaman lütfen\n"
-"                    <a href=\"%(login_url)s\">giriş yapın</a>."
+msgstr "Zaten bir hesabınız var mı? O zaman lütfen         \n"
+"                    <a href=\"%(login_url)s\">sign in</a>."
 
 #: templates/account/signup.html:24
 msgid "Sign Up"
@@ -1616,11 +1612,11 @@ msgstr "Kayıt Ol"
 
 #: templates/account/signup.html:26 templates/static_pages/sign_up.html:90
 msgid "Log in with"
-msgstr "İle oturum aç"
+msgstr "Ile Oturum aç"
 
 #: templates/account/signup.html:34 templates/static_pages/sign_up.html:98
 msgid "Already have Pustakalaya account"
-msgstr "Zaten Pustakalaya hesabınız var"
+msgstr "Zaten Pustakalaya hesabın var"
 
 #: templates/account/signup.html:35 templates/static_pages/sign_up.html:98
 msgid "Log in"
@@ -1629,11 +1625,11 @@ msgstr "Oturum Aç"
 #: templates/account/signup_closed.html:5
 #: templates/account/signup_closed.html:9
 msgid "Sign Up Closed"
-msgstr "Kayıt Kapatıldı"
+msgstr "Kaydolma Kapalı"
 
 #: templates/account/signup_closed.html:11
 msgid "We are sorry, but the sign up is currently closed."
-msgstr "Üzgünüz ancak kayıtlar şu anda kapalı."
+msgstr "Üzgünüz, fakat kayıt olma şu anda kapalı."
 
 #: templates/account/snippets/already_logged_in.html:5
 msgid "Note"
@@ -1649,30 +1645,32 @@ msgstr "zaten %(user_display)s olarak giriş yaptınız."
 #: templates/account/verified_email_required.html:5
 #: templates/account/verified_email_required.html:9
 msgid "Verify Your E-mail Address"
-msgstr "E-posta Adresinizi Doğrulayın"
+msgstr "E-posta adresinizi doğrulayın"
 
 #: templates/account/verification_sent.html:11
 msgid "We have sent an e-mail to you for verification. Follow the\n"
 "            link provided to finalize the signup process. Please contact us if you do not receive it within a few\n"
 "            minutes."
-msgstr "Doğrulama için size bir e-posta gönderdik. Kayıt işlemini tamamlamak için size verilen\n"
-"            bağlantıyı takip edin. Eğer bir kaç             dakika içinde e-postayı almazsanız lütfen bizimle iletişime geçiniz."
+msgstr "Size doğrulama için bir e-posta gönderdik. Kayıt işlemini\n"
+"            sonuçlandırmak için bu bağlantıyı takip edin. Eğer bu e-postayı birkaç dakika içinde almazsanız\n"
+"            lütfen bizimle iletişim kurun."
 
 #: templates/account/verified_email_required.html:13
 msgid "This part of the site requires us to verify that\n"
 "            you are who you claim to be. For this purpose, we require that you\n"
 "            verify ownership of your e-mail address. "
-msgstr "Sitenin bu kısmı, iddia ettiğiniz kişinin\n"
-"            siz olduğunuzu doğrulamamızı gerektiriyor. Bu nedenle, e-posta adresinin size ait olduğunu\n"
-"            doğrulamanıza ihtiyacımız var. "
+msgstr "Sitenin bu kısmında iddia ettiğiniz kişi\n"
+"            olduğunuzu doğrulamalısınız. Bu nedenle, e-posta adresinizin\n"
+"            sahibi olduğunuzu doğrulamanızı istiyoruz. \n"
+" "
 
 #: templates/account/verified_email_required.html:17
 msgid "We have sent an e-mail to you for\n"
 "            verification. Please click on the link inside this e-mail. Please\n"
 "            contact us if you do not receive it within a few minutes."
-msgstr "Doğrulama için size bir e-posta\n"
-"            gönderdik. Lütfen gönderdiğimiz e-postanın içindeki bağlantıya tıklayın. Eğer\n"
-"            bu e-postayı birkaç dakika içinde almazsanız lütfen bizimle iletişim kurun."
+msgstr "Onay için şuraya bir e-posta\n"
+"            gönderdik. Lütfen e-postada bulunan linke tıklayın. Birkaç dakika\n"
+"            içerisinde e-postayı alamazsanız lütfen bizimle iletişime geçin."
 
 #: templates/account/verified_email_required.html:21
 #, python-format
@@ -1691,11 +1689,11 @@ msgstr "ana sayfa"
 
 #: templates/index.html:38 templates/index_new.html:38
 msgid "Browse Pustakalaya"
-msgstr "Pustakalaya'yı Araştır"
+msgstr "Pustakalaya'ya göz atın"
 
 #: templates/index.html:46 templates/index_new.html:46
 msgid "browse the library"
-msgstr "kütüphaneyi araştır"
+msgstr "kütüphaneye göz atın"
 
 #: templates/index.html:64 templates/index_new.html:64
 msgid "author"
@@ -1707,15 +1705,15 @@ msgstr "bölümler"
 
 #: templates/index.html:80 templates/index_new.html:80
 msgid "literatures and Arts"
-msgstr "edebiyat ve sanat"
+msgstr "edebiyat ve güzel sanatlar"
 
 #: templates/index.html:86 templates/index_new.html:86
 msgid "Course Materials"
-msgstr "Ders Materyalleri"
+msgstr "Ders Mataryelleri"
 
 #: templates/index.html:92 templates/index_new.html:92
 msgid "Teaching Materials"
-msgstr "Öğretim Materyalleri"
+msgstr "Öğretim Materyelleri"
 
 #: templates/index.html:98 templates/index_new.html:98
 msgid "reference Materials"
@@ -1731,7 +1729,7 @@ msgstr "Gazeteler & Dergiler"
 
 #: templates/index.html:175 templates/index_new.html:166
 msgid "Interactive educational software"
-msgstr "İnteraktif eğitim yazılımı"
+msgstr "Etkileşimli eğitim yazılımı"
 
 #: templates/index.html:259 templates/index_new.html:250
 #: templates/static_pages/about.html:13
@@ -1751,16 +1749,15 @@ msgid "\n"
 "          languages. In the future, we will also add materials in other national languages of\n"
 "          Nepal. "
 msgstr "\n"
-"          E-Pustakalaya bir intranet veya internet aracılığıyla erişilebilen tam-metinli belgeler, resimler,\n"
-"          videolar ve\n"
-"          ses dosyaları içeren, eğitim-odaklı bir dijital kütüphanedir. Kullanıcı doğrudan E-kütüphane\n"
-"          sunucusu üzerinden belgeleri\n"
-"          okuyabilir, videoları görüntüleyebilir ve ses kliplerini\n"
-"          dinleyebilir veya bu gereçleri\n"
-"          kendi kişisel bilgisayarına indirebilir ve indirdiklerini daha sonra görüntüleyebilir.\n"
-"          E-Pustakalaya koleksiyonları Nepalce ve İngilizce dillerinin\n"
-"          ikisinde de yayınlar. İleride, diğer Nepal ulusal dillerini de gereçler olarak\n"
-"          ekleyeceğiz. "
+"          E-Pustakalaya iç ağ ya da internet üzerinden erişilebilen tam metin dokümanlar, resimler, videolar,\n"
+"          ses dosyaları ve \n"
+"          içeren eğitim odaklı bir dijital kütüphanedir. Kullanıcı hem direkt E-kütüphane hizmeti üzerinden \n"
+"          dokümanları\n"
+"          okuyabilir, videoları görüntüleyebilir ve ses kliplerini dinleyebilir hem de sonra kullanmak üzere bu\n"
+"          dokümanları da\n"
+"          kişisel bilgisayarına indirebilir. E-Pustakalaya hem İngilizce hem de Nepalce koleksiyonlara sahiptir.\n"
+"          Gelecekte, \n"
+"          Nepal'in diğer ulusal dillerinde de materyaller ekleyeceğiz. "
 
 #: templates/index.html:271 templates/index_new.html:262
 msgid "Read More"
@@ -1768,11 +1765,11 @@ msgstr "Daha fazla oku"
 
 #: templates/index.html:285 templates/index_new.html:276
 msgid "Major partners"
-msgstr "Ana ortaklarımız"
+msgstr "Büyük Ortaklar"
 
 #: templates/index.html:299 templates/index_new.html:290
 msgid "Past supporter"
-msgstr "Eski destekçiler"
+msgstr "Eski Destekleyenler"
 
 #: templates/index.html:334 templates/index_new.html:325
 msgid "Content contribution"
@@ -1809,35 +1806,31 @@ msgid "\n\n"
 "                    <br/><br/>\n\n\n"
 "                "
 msgstr "\n\n"
-"                    E-Pustakalaya içerisinde tam metin dokümanları, kitaplar, resimler, vidyolar, ses dosyaları ve\n"
-"                    interaktif eğitim yazılımları olan buna direk olarak intranet veya internet ile erişilen eğitim-odaklı\n"
-"                    dijital kütüphanedir.\n"
-"                    OLE Nepal çocukların okuma becerilerini arttırmak ve onlara ücretsiz olarak okuma kültürlerini \n"
-"                    arttırmak ve yaşlarına uygun okuma malzemelerini açık bir şekilde sunmak ve öğrencilerin araştırma\n"
-"                    projelerini mümkün kılmak ve bağımsız düşünme şeklini onlara aşılamak için E-pustakala'yı \n"
-"                    2018 yılında geliştirilmeye başlamıştır. E-Pustakalaya 2009 yılında yaşama geçtiğinden beri, \n"
-"                    öğretmenler gibi diğer yetişkinlerede çeşitli öğretim kaynakları konusunda geniş bir katkı sağladı,\n"
-"                    tarım için eğitimsel malzemeler, sağlık, ortam, yerel teknolojiler  ve bunlar gibi.\n"
+"                    E-Pustakalaya tam metin dokümanlar, kitaplar, resimler, videolar, ses dosyaları ve iç ağ ya da internet \n"
+"                    üzerinden erişilebilen interaktif eğitim yazılımı içeren eğitim odaklı bir dijital kütüphanedir. HEY Nepal, \n"
+"                    E-Pustakala'yı 2008 yılında çocuklara ücretsiz ve erişime açık, yaşlarına uygun okuma materyalleri \n"
+"                    sağlayarak çocukların okuma becerilerini ilerletme ve okullardaki okuma kültürünü geliştirme ile \n"
+"                    öğrencilerin araştırma projelerini yapabilmesini temin etme ve bağımsız araştırma alışkanlıklarını \n"
+"                    ilerletme amacıyla geliştirmeye başladı. E-Pustakalaya 2009'da yayıma başladığından beri, öğretmenler \n"
+"                    ile birlikte diğer yetişkinler de tarım, sağlık, çevre, bölgesel teknoloji gibi konularda çeşitli öğretici \n"
+"                    kaynaklardan ve eğitim materyallerinden genişçe faydalandı.\n"
 "                    <br/><br/>\n\n"
-"                    E-Pustakalaya kullanıcıları istedikleri öğelere çeşitli bölümlere bakmak için doğrudan arayabilir,\n"
-"                    veya onlar özel olarak arama veya yazar adının parçası, başlık, yayımcı ve/veya anahtar kelimelere\n"
-"                    göre arayabilir. Aynı zamanda kullanıcılar öğeye benzer yazar adı, başlık veya anahtar kelimeye\n"
-"                    tek bir tıklama ile bağlanabilir.\n"
-"                    Kullanıcılar E-Pustakalaya'dan direk olarak kitapları ve dokümanları okuyabilir, müzik dinleyebilir, \n"
-"                    eğitici oyunlar oynayabilir ve bu durumda kitapları ve dokümanları, sonrasında tekrar görüntülemek\n"
-"                    için indirip saklayabilirler. Aynı zamanda E-Pustakalaya'ya android cihazlarında E-Pustakalaya\n"
-"                    uygulamasını üzerinden erişebilirler. Bu uygulamayı kullanan kullanıcılar  E-Pustakalayadaki \n"
-"                    çevirimiçi veya çevirimdışı sunucuya erişebilirler.\n"
+"                    E-Pustakalaya kullanıcıları çeşitli kısımlar aracılığıyla tarama yaparak istedikleri parçaları arayabilir ya da \n"
+"                    kısmî ya da tam yazar ismi, başlık, basım ve/veya anahtar kelimeler ile belirli parçalar için arama yapabilirler.\n"
+"                    Kullanıcılar ayrıca tek bir tık ile yazar, basım evi veya anahtar kelimeleri temel alan benzer parçalara da \n"
+"                    erişebilir. Kullanıcılar direkt E-Pustakalaya üzerinden kitap ve doküman okuyabilir, video izleyebilir, ses \n"
+"                    klipleri dinleyebilir, eğitici oyunları oynayabilir ve sonradan görüntülemek için kitap ve dokümanları indirip \n"
+"                    depolayabilir. E-Pustakalya'ya ayrıca E-Pustakalaya uygulaması aracılığı ile android cihazlardan erişilebilir. \n"
+"                    Bu uygulamayı kullanarak kullanıcılar E-Pustakalaya'ya çevrimiçi veya çevrimdışı şekilde erişebilir.\n"
 "                    <br/><br/>\n\n"
-"                    E-Pustakalaya materyallerinin kullanım hakkı  Creative Commons 3.0 Attribution-Non\n"
-"                    Commercial-Share Alike telifi ile lisanslanmıştır. E-Pustakalaya içindeki sağlanan bağlantılar\n"
-"                    direk olarak OLE Nepal ilişikili değildir ve ilişkili olmayan işaretler sadece kullanıcıya\n"
-"                    yarar sağladıkları için dahil edilmiştir.\n"
+"                    E-Pustakalaya'da materyallerin kullanımı Creative Commons 3.0 Attribution-Non Commercial-Share Alike \n"
+"                    telif hakkı lisanslarına tabidir. E-Pustakalaya içerisinde sağlanan bağlantılar OLE Nepal ile doğrudan ilişkili \n"
+"                    değildir ve sadece kullanıcı yararı için eklenmiş ilişkili olmayan siteleri işaret eder.\n"
 "                    <br/><br/>\n\n"
-"                    E-Pustakalaya internet bağlantısı olmayan veya düşük bant genişliği olan okul ve topluluk\n"
-"                    kütüphanelerindeki düşük güçlü sunucularada yüklenip servis edilebilir. E-Pustakalay'nın bunun\n"
-"                    gibi yerel örnekleri, hızlı erişim ve hızlı internet ile daha iyi bir kullanıcı deneyimi verecektir.\n"
-"                    <br/><br/>\n\n"
+"                    E-Pustakalaya ayrıca düşük güçlü sunuculara da kurulabilir ve internet bağlantısı olmayan ya da zayıf bir \n"
+"                    internet bağlantısı olan okullar ve halk kütüphanelerinde yayımlanabilir. Bu tarz E-Pustakala'nın yerel \n"
+"                    örneklerinde hızlı erişim ve seri indirmeler yoluyla daha iyi kullanıcı deneyimi mümkün olacaktır.\n"
+"                    <br/><br/>\n\n\n"
 "                "
 
 #: templates/static_pages/feedback.html:11
@@ -1848,15 +1841,13 @@ msgid "\n"
 "                of E-Pustakalaya.\n"
 "            "
 msgstr "\n"
-"                Lütfen aşağıdaki formu, bizim web sitemizde neyi beğendiğiniz veya neleri geliştirilebileceğimiz hakkında\n"
-"                ayrıntı vermek için kullanın.\n\n"
-"                E-Pustakalaya kalitesini ve kullanıcı deneyimini durmadan iyileştirme denemelerimizde geri bildiriminiz\n"
-"                değer biçilemez olacaktır.\n"
-"            "
+"                Lütfen aşağıda yer alan formu doldurarak bizim sitemizde neyi beğendiğinizi ya da neyi geliştirilebileceği\n"
+"                hakkında detaylı bilgi veriniz.\n\n"
+"                Sizin geri bildirimleriniz E-Pustakalaya'nın kalitesinin ve kullanıcı deneyimlerini                 sürekli geliştirilmesi çabalarımız için paha biçilemez olacaktır.            "
 
 #: templates/static_pages/feedback.html:31
 msgid "Send Feedback"
-msgstr "Geri bildirim gönder"
+msgstr "Geri Bildirim Gönder"
 
 #: templates/static_pages/help.html:13 templates/static_pages/help.html:40
 msgid "What is E-Pustakalaya?"
@@ -1864,11 +1855,11 @@ msgstr "E-Pustakalaya nedir?"
 
 #: templates/static_pages/help.html:15
 msgid "What are the major sections"
-msgstr "Başlıca bölümler nelerdir"
+msgstr "Önemli bölümler nelerdir"
 
 #: templates/static_pages/help.html:17 templates/static_pages/help.html:139
 msgid "What features does E-Pustakalaya have?"
-msgstr "E-Pustakalaya hangi özelliklere sahip?"
+msgstr "E-Pustakalaya ne gibi özelliklere sahiptir?"
 
 #: templates/static_pages/help.html:19 templates/static_pages/help.html:174
 msgid "What are the different sections I see on the E-Pustakalaya home page?"
@@ -1876,15 +1867,15 @@ msgstr "E-Pustakalaya ana sayfasında gördüğüm farklı bölümler nelerdir?"
 
 #: templates/static_pages/help.html:21 templates/static_pages/help.html:228
 msgid "How do I use the browse, link and search feature of the library?"
-msgstr "Kütüphanedeki gözatma, bağlantı ve arama özelliğini nasıl kullanabilirim?"
+msgstr "Kütüphanenin göz atma, bağlantıları ve arama özelliklerini nasıl kullanırım?"
 
 #: templates/static_pages/help.html:23 templates/static_pages/help.html:323
 msgid "How do I return to the E-Pustakalaya home page from another page?"
-msgstr "Başka bir sayfadan e-Pustakalaya ana sayfasına nasıl geri dönerim?"
+msgstr "Başka bir sayfadan E-Pustakalaya ana sayfasına nasıl dönebilirim?"
 
 #: templates/static_pages/help.html:25 templates/static_pages/help.html:335
 msgid "Why can't I set up a collection myself?"
-msgstr "Neden kendim bir koleksiyon kuramıyorum?"
+msgstr "Neden kendi kendime bir koleksiyon kuramıyorum?"
 
 #: templates/static_pages/help.html:27 templates/static_pages/help.html:348
 msgid "Why should I become a registered user?"
@@ -1892,11 +1883,11 @@ msgstr "Neden kayıtlı bir kullanıcı olmalıyım?"
 
 #: templates/static_pages/help.html:29 templates/static_pages/help.html:364
 msgid "What is a feedback form? How do I use it?"
-msgstr "Geribildirim formu nedir? Nasıl kullanabilirim?"
+msgstr "Geri bildirim formu nedir? Nasıl kullanabilirim?"
 
 #: templates/static_pages/help.html:31 templates/static_pages/help.html:378
 msgid "What is E-Paath?"
-msgstr "E-Paath nedir?"
+msgstr "E-Paath Nedir?"
 
 #: templates/static_pages/help.html:41
 msgid "\n"
@@ -1908,15 +1899,12 @@ msgid "\n"
 "          languages of Nepal.\n"
 "          "
 msgstr "\n"
-"          E-Pustakalaya yerel ağ veya internet üzerinden erişilebilen arşivinde tam metin belge, \n"
-"          resim, video ve ses dosyaları bulunduran eğitim odaklı bir dijital kütüphanedir. Kullanıcılar \n"
-"          kitap okuyabilir, video izleyebilir, ses kliplerini dinleyebilir ve interaktif aktiviteler ile \n"
-"          öğrenimini pekiştirebilir. E-Pustakalaya Nepalce, İngilizce ve diğer Nepal dillerinde \n"
-"          koleksiyonlara sahiptir.          "
+"     E-Pustakalaya, intranet veya internet üzerinden erişilebilen tam metinli belgeler, resimler, videolar ve ses dosyaları içeren, eğitim odaklı bir dijital kütüphanedir. E-Pustakalaya kullanıcıları kitap okuyabilir, videoları görüntüleyebilir, etkileşimli aktiviteler yoluyla öğrenebilir ve dinleyebilir ses kliplerine kopyalayın.\n"
+"    E-Pustakalaya, Nepalce, İngilizce ve Nepal'in diğer dillerinde koleksiyonlar düzenliyor.          "
 
 #: templates/static_pages/help.html:56
 msgid "What are the major sections?"
-msgstr "Başlıca bölümler nelerdir?"
+msgstr "Başlıca kısımlar nelerdir?"
 
 #: templates/static_pages/help.html:57
 msgid "\n"
@@ -1995,79 +1983,37 @@ msgid "\n"
 "        </ol>\n"
 "        "
 msgstr "\n"
-"E-Pustakalaya'da yedi büyük bölüm vardır:\n"
-"        <ol class=\"paragraph-font\">\n"
-"          <li>\n"
-"            <b>Literatür</b> - Bu bölüm İngilizce ve Nepal dilleri literatürlerinin\n"
-"            dil ve yaş gruplarına göre\n"
-"            kategorilendirilmiş hallerini içerir. Gelecekte, diğer Nepal dillerinde literatürler eklemeyi\n"
-" ve\n"
-"            türe göre filtrelemeyle\n"
-"            karakteristiklere göre filtrelemeyi de \n"
-"            eklemek niyetindeyiz.\n"
-"          </li>\n"
-"          <li>\n"
-"            <b>Sanat</b> - Bu bölüm farklı sanat biçimlerinde kitaplar ve materyaller,\n"
-"            geniş bir yelpazede ele alınan ve çocuklarda sanata ve sanatsal\n"
-"            etkinliklere eş zamanlı\n"
-"            eğitimler ile bağlanma isteği\n"
-"            uyandıracak materyaller \n"
-"            içerir.\n"
-"            <br>\n"
-"          </li>\n"
-"          <li>\n"
-"            <b>Dersle-alakalı materyaller</b> - Bu bölüm, devlet okulu \n"
-"            ders kitaplarının yanı sıra \n"
-"            konu ve sınıfa göre konu ile ilgili ek okuma malzemesi \n"
-"            ve akıllıca interaktif öğrenme \n"
-"            materyalleri içerir.\n"
-"            <br>\n"
-"          </li>\n"
-"          <li>\n"
-"            <b>Referans Materyalleri</b> - Bu bölüm şu anda Nepalce \n"
-"            sözlüğü,\n"
-"            ansiklopedileri (özellikle Okul Wikipedia'sı), atlaslar, haritalar ve bunların yanı sıra\n"
-"            kamu belgelerini içeriyor.\n"
-"            Bu bölüm, özellikle, araştırma projeleri için materyal arayışındaki\n"
-"            kullanıcılar veya geniş yelpazede konular hakkında\n"
-"            genel bilgi ile ilgilidir.\n"
-"            <br>\n"
-"          </li>\n"
-"          <li>\n"
-"            <b>Öğretim destek materyalleri</b> - Bu bölüm ulusal okul müfredatı,\n"
-"            öğretim kılavuzları,\n"
-"            öğretmen alıştırma materyalleri,\n"
-"            eğitim teorisi hakkında okumaları,\n"
-"            tamamlayıcı okumalar\n"
-"            ve sınıf öğretmenlerine ders planları hazırlama\n"
-"            ve genel bilgi temellerini güçlendirmek için\n"
-"            eş-etkileşim sitelerine bağlantılar gibi materyalleri içerir.\n"
-"            <br>\n"
-"          </li>\n"
-"          <li>\n"
-"            <b>Gazeteler ve dergiler</b> - Bu bölüm, Nepal'in ana\n"
-"            gazete ve dergilerini\n"
-"            içerir.\n"
-"            <br>\n"
-"          </li>\n"
-"          <li>\n"
-"            <b>Diğer eğitim materyalleri</b> - Bu bölüm, müfredat tabanlı\n"
-"            olmayan eğitim\n"
-"            materyaline sahiptir. Sağlık ve çevre, gençlik gelişimi, vatandaşlık eğitimi\n"
-"            ve afete hazırlık gibi\n"
-"            konularda bilinç oluşturma\n"
-"            ve bunları savunma ile ilgili geniş yelpazede materyalleri içerir.\n"
-"            <br>\n"
-"          </li>\n"
-"          <br>Bu bölümler, fiziksel kütüphanelerde gördüğünüz farklı bölümlerle benzeşir.\n"
-"          Kullanıcı,\n"
-"          fiziksel bir kütüphanenin raflarında gördüğü\n"
-"          kitap koleksiyonlarına göz attığı gibi,\n"
-"          bu bölümlerin herhangi birine girebilir\n"
-"          ve koleksiyonları tarayabilir.\n"
-"        </ol>\n"
-"        \n\n"
-"        "
+"E-Pustakalaya'da yedi ana bölüm var:\n"
+"        <ol class = \"paragraph-font\">\n"
+"          <Li>\n"
+"            <b> Edebiyat </ b> - Bu bölüm, dil ve yaş grubuna göre sınıflandırılmış Nepalce ve İngilizce literatürü içermektedir. Gelecekte, diğer Nepalce dillerinde edebiyat eklemek ve tür ve diğer özelliklere göre filtreleme yapmak istiyoruz.\n"
+"          </ Li>\n"
+"          <Li>\n"
+"            <b> Sanat </ b> - Bu bölüm, farklı sanat formları, hareketleri ve sanatçıları üzerine kitaplar ve materyaller içerir; bunun yanı sıra, sanat ve el sanatları etkinlikleriyle uğraşmak isteyen çocuklar için çok yararlı olacak çeşitli malzeme elleri dizisi bulunur. aynı zamanda eğitici.\n"
+"            <br>\n"
+"          </ Li>\n"
+"          <Li>\n"
+"            <b> Dersle ilgili materyaller </ b> - Bu bölüm, devlet dersi kitaplarının yanı sıra, konu ve nota göre tamamlayıcı okuma materyali ve konu ve sınıf akıllı interaktif öğrenme materyali içerir.\n"
+"            <br>\n"
+"          </ Li>\n"
+"          <Li>\n"
+"            <b> Referans materyalleri </ b> - Bu bölüm şu anda bir Nepalce sözlük, ansiklopediler (özellikle Okul Vikipedi), atlaslar, haritalar ve hükümet dokümanları içeriyor. Bu bölüm, özellikle, araştırma projeleri için malzeme arayan kullanıcılar veya geniş kapsamlı konular hakkında genel bilgi ile ilgilidir.\n"
+"            <br>\n"
+"          </ Li>\n"
+"          <Li>\n"
+"            <b> Destek materyalleri öğretme </ b> - Bu bölüm, ulusal okul müfredatı, öğretim kılavuzları, öğretmen eğitimi materyalleri, eğitim teorisi okuma parçaları, tamamlayıcı okumalar ve öğretmenlere yardımcı olmak için tasarlanmış akran etkileşim sitelerine bağlantılar gibi materyalleri içerir ders planları hazırlamak ve genel bilgi temellerini güçlendirmek.\n"
+"            <br>\n"
+"          </ Li>\n"
+"          <Li>\n"
+"            <b> Gazeteler ve dergiler </ b> - Bu bölüm, kilit Nepalce gazetelere ve dergilere bağlantılar içerir.\n"
+"            <br>\n"
+"          </ Li>\n"
+"          <Li>\n"
+"            <b> Diğer eğitim materyalleri </ b> - Bu bölüm müfredat esaslı olmayan eğitim materyaline sahiptir. Sağlık ve çevre, gençlik gelişimi, vatandaşlık eğitimi ve afete hazırlık gibi konularda bilinçlendirme ve savunuculuk ile ilgili materyalleri içerir.\n"
+"            <br>\n"
+"          </ Li>\n"
+"          <br> Bu bölüm fiziksel kütüphanelerde gördüğünüz farklı bölümlere benzer. Kullanıcı, fiziksel bir kütüphanenin raflarında görüntülenen kitap koleksiyonlarına göz attığınız gibi bu bölümlerin herhangi birini girebilir ve koleksiyonlara göz atabilir.\n"
+"        </ Ol>        "
 
 #: templates/static_pages/help.html:140
 msgid "\n"
@@ -2096,32 +2042,7 @@ msgid "\n"
 "            three procedures) according to author.\n"
 "          </li>\n"
 "          "
-msgstr "        <ol type = \"a\" class = \"paragraf fontu\">\n"
-"          E-Pustakalaya, kullanıcının kitaplara erişmesini kolaylaştıran dört güçlü özelliğe sahiptir;\n"
-"          belgeler, videolar, ses dosyaları ve resimler:\n"
-"          <li>\n"
-"            <b> Tarama yeteneği: </ b> Kullanıcı arayan yedi ana bölüme göz atabilir\n"
-"            için\n"
-"            Sevdiği eşyalara göre veya yazar, konu, tarih ve anahtar kelimeye göre de göz atabilir.\n"
-"          </li>\n"
-"          <br>\n"
-"          <li>\n"
-"            <b> Arama yapma olanağı: </ b> Kullanıcı aradığı öğe hakkındaki bilgileri biliyorsa\n"
-"            için\n"
-"            (örneğin, tam başlık veya yazar), o kütüphane arama cihazını kullanarak bu öğeyi arayabilir.\n"
-"          </li>\n"
-"          <br>\n"
-"          <li>\n"
-"            <b> Bağlantı yeteneği: </ b> Kullanıcı aradığı ve bulmak istediği bir öğeyi bulursa\n"
-"            benzer öğelerden (örneğin, aynı yazar tarafından), o öğeleri tek bir tıklama ile listeleyebilir.\n"
-"          </li>\n"
-"          <br>\n"
-"          <li>\n"
-"            <b> Filtreleme kabiliyeti: </ b> Kullanıcı madde listelerini filtreleyebilir (yukarıdaki\n"
-"            üç prosedür) yazara göre.\n"
-"          </li>\n"
-"          \n"
-"          \n"
+msgstr ""
 
 #: templates/static_pages/help.html:175
 msgid "\n"
@@ -2170,50 +2091,7 @@ msgid "\n"
 "          </li>\n"
 "        </ol>\n"
 "        "
-msgstr "\n"
-"        <ol class=\"paragraph-font\">\n"
-"          E-Pustakalaya ana sayfası dört kısma ayrılmıştır:\n"
-"          <li>Sol tarafta yer alan linkler daha önce listelenmiş kütüphane yedi ana kısmı içindir. Yedi\n"
-"            ana kısımdan her biri bu kısma girildikten sonra görülebilen birçok sayıda alt kısıma \n"
-"            sahiptir.\n"
-"            Kullanıcılar bu kısımların her birinde ve bunların alt kısımlarında bulunan koleksiyonlar (yani,\n"
-"            görülen\n"
-"            materyaller listesi) içerisinde istedikleri materyalleri aramak için tarama yapabilir.\n"
-"          </li>\n"
-"          <br>\n"
-"          <li>\n"
-"            Sağda yer alan kutu— daha fazla oku — kullanıcılara en son eklemelere göre kütüphane \n"
-"            koleksiyonunda tarama yapma imkanı sağlayan bir bağlantı içerir. Buna ek olarak, \n"
-"            burada\n"
-"            Harita, Video, Okul Wikipediası ve Nepalce Sözlük sayfalarına ve ayrıca OLE Nepal'in\n"
-"            eğitici aktivite paketi E-Paath'ın en son sürümüne direkt \n"
-"            bağlantılar\n"
-"            var.\n"
-"          </li>\n"
-"          <br>\n"
-"          <li>\n"
-"            Ana sayfanın en yukarısında arama ve gelişmiş arama seçeneklerini içeren arama çubuğu\n"
-"            var. Eğer kullanıcı aradığı parçanın detaylarını biliyorsa (yani başlığı, yazarın adını) dikdörtgen \n"
-"            şeklindeki arama alanına bir kelime ya da kelime dizisi girerek ve enter tuşuna basarak o \n"
-"            parça için\n"
-"            arama yapabilir. (ya da alternatif olarak, büyüteç amblemine tıklayabilir). Eğer arama çubuğunun\n"
-"            hemen \n"
-"            yanında varsa bu kullanıcıların gelişmiş arama yapmasını sağlar..\n"
-"          </li>\n"
-"          <br>\n"
-"          <li>\n"
-"            Dördüncü kısım olan gezinti çubuğu arama çubuğunun hemen altındadır. Bu çubuğun\n"
-"            en solunda\n"
-"            kullanıcıların kayıtlı kullanıcı isimleri ile giriş yapmasını sağlayan bir bağlantı vardır.\n"
-"            Sağ tarafında ise kullanıcıları ana sayfaya yönlendiren \"ana sayfa\" denilen bir bağlantı vardır.\n"
-"            Bu bağlantının\n"
-"            yanında \"geri bildirim\" başlıklı kullanıcıların geri bildirim foruma ulaşacağı bir bağlantı bulunur.\n"
-"            En sağda\n"
-"            ise\n"
-"            kullanıcıyı kullanıcı rehberine yönlendiren bir yardım tuşu bulunur.\n"
-"          </li>\n"
-"        </ol>\n"
-"        "
+msgstr ""
 
 #: templates/static_pages/help.html:229
 msgid "\n"
@@ -2299,31 +2177,7 @@ msgid "\n"
 "            search field and proceed to fill the empty fields that show up. </i>\n"
 "        </ol>\n"
 "        "
-msgstr "\n"
-"<ol type = \"a\" class = \"paragraf fontu\">\n"
-"          <li> <i> Yedi ana bölüme göz atma: </ i> </ li>\n"
-"          <ol type = \"i\">\n"
-"            <li> Ana bölümlerden herhangi birine tıkladığınızda, o bölümün alt bölümlerini içeren bir sayfa görürsünüz. Örneğin, Nepalice çocuk edebiyatı altında mevcut olanları görmek isterseniz, önce \"Sahiyta\" bölümünü tıklayın. Gösterilen sayfada bir tanesi \"Nepalli Baal Sahiya\" olan bir dizi alt bölüm göreceksiniz. Şimdi \"Nepalli Baal Sahiya\" bağlantısını tıkladığınızda alt bölümdeki tüm materyaller görüntülenecektir. Görüntülenen liste, koleksiyondaki her maddenin başlığını ve yazarını içerir. Bu liste fiziksel kütüphanelerin kitap raflarında düzenlenmiş gördüğünüz kitap koleksiyonlarına benzemektedir.\n"
-"            </ Li>\n"
-"            <br>\n"
-"            <li> Şimdi, kitap başlığını tıklayarak okumak istediğiniz kitabı \"çekin\". Örneğin, Srijan Sharma'nın \"Ko Thulo\" adlı kitabına bakmak istiyorsanız, bu kitaba verilen linki tıklayın. Fiziksel bir kitabın ilk birkaç sayfasında (ör. Başlık, yazar, yayın tarihi, yayıncı vb.) Bulacağınız kitap ayrıntılarıyla ilgili ayrıntıları gösteren yeni bir sayfa görürsünüz.\n"
-"            </ Li>\n"
-"            <br>\n"
-"            <li> Kitabı gerçekten açıp okumak için, \"Oku / Karşıdan Yüklemek İçin Tıklayın\" bölümünde görüntülenen pdf dosyasının bağlantısını tıklamanız gerekir. Bağlantınız tarayıcı yapılandırmanıza bağlı olarak, dosyayı kaydetmenizi / açmanızı veya dosyayı otomatik olarak yeni bir tarayıcı penceresinde açmanızı ister. Dosyayı kaydetmeyi seçerseniz, bulunduğunuz klasöre gitmeniz gerekir kaydedip, bir PDF okuma yazılımı (PC'ler için Adobe Reader gibi) ile kitap açacak olan bu klasördeki dosyayı tıklayın. Dosyayı doğrudan açmayı seçerseniz, dosyayı açtıktan sonra bilgisayarınıza kaydedebilirsiniz.\n"
-"            </ Li>\n"
-"            <br>\n"
-"            <li> Kullanıcı E-Pustakalaya'ya göz atarken herhangi bir noktada, yedi ana bölümden herhangi birine gitmek istiyorsa, doğrudan bu bölümlerin bağlantılarını kategoriler çubuğunun sağ üstündeki kategori çubuğunda tıklayarak yapabilirsiniz. içerik alanı.\n"
-"          </ Ol>\n"
-"          Not: Ana sayfadaki \"Daha fazla oku\" altındaki linklere tıklayarak kütüphane koleksiyonlarını benzer şekilde gezebilirsiniz.\n"
-"          <br>\n"
-"          </ Li>\n\n"
-"          <li> <i> Bağlantı özelliğini kullanma: </ i> <br> </ li>\n"
-"          <br>\n"
-"          Yukarıda açıklanan (ii) adımına geçtikten ve Srijana Sharma'nın tüm kitaplarına göz atmak isterseniz, yazar alanında görüntülenen \"Srijana Sharma\" yı tıklamanız yeterlidir. Bu sizi yeni bir sayfaya götürecektir. Srijana Sharma tarafından yazılmış, resmedilmiş veya düzenlenmiş kitaplar.\n\n"
-"          <li> <i> Arama özelliğini kullanma: </ i> <br> </ li>\n"
-"          <br>\n\n"
-"          Sadece kitaplık bölümlerine göz atmak yerine belirli bir maddeyi aramak isterseniz. \"Putaliko bihe\" başlıklı bir kitap aramak istiyorsanız, kitabın başlığını (veya kısmi başlığı) dikdörtgen arama alanına girin en üstteki gezinme çubuğunun sol köşesinde bulunan Daha sonra \"arama\" butonuna tıklayın. Bu, arama alaka düzeyinin azaldıkça bir listede tam veya kısmi sonuçlar görüntüleyen arama sonuçları sayfasına yönlendirir. Kitap hakkında ayrıntılı bilgi edinmek için seçtiğiniz kitabı tıklayabilirsiniz. Sonra, (iii). Adımda açıklandığı gibi kitabı açmaya devam edebilirsiniz.\n"
-"          <i> Not: Öğe hakkında daha ayrıntılı bilgi sahibi iseniz ve bu bilgiyi daha hedefli hale getirmek için bu bilgileri girmek istiyorsanız, arama alanının yanındaki \"Gelişmiş Arama\" düğmesini tıklatıp aşağıdaki boş alanları doldurmaya devam edin: ortaya çıkmak. </ i> </ ol>        "
+msgstr ""
 
 #: templates/static_pages/help.html:324
 msgid "\n"
@@ -2331,8 +2185,8 @@ msgid "\n"
 "          that appears in the top right hand area of the navigation bar at the top of the page.\n"
 "          "
 msgstr "\n"
-"Başka bir sayfada olduğunuz herhangi bir zaman, sayfanın en üstündeki gezinme çubuğunun\n"
-"          sağ üst kısmındaki alanda görünen \"Ana sayfa\" simgesine tıklayarak ana sayfaya dönebilirsiniz.          "
+"          Başka herhangi bir sayfadayken, sayfanın üst tarafındaki gezinme çubuğunun en üst sağ bölgesinde beliren \"Ana Sayfa\" simgesine           tıklayarak ana sayfaya dönebilirsiniz.\n"
+"          "
 
 #: templates/static_pages/help.html:336
 msgid "\n"
@@ -2341,7 +2195,10 @@ msgid "\n"
 "          possible that you could be granted this right.\n"
 "          "
 msgstr "\n"
-"Pustakalaya toplulukları içinde koleksiyon oluşturma izni şuan oldukça sınırlıdır. Ancak, bu sorunu tartışmak için lütfen Pustakalaya Yöneticisi ile irtibata geçin. Bu haktan yararlanmanız mümkün olabilir.          "
+"          Pustakala toplulukları içerisinde koleksiyon oluşturma izinleri şu anda oldukça kısıtlanmış durumdadır.\n"
+"          Ancak, bu meseleyi görüşmek için lütfen Pukatalaya Yöneticileri ile iletişime geçin. Bu hakkın size verilmesi\n"
+"          kesindir.\n"
+"          "
 
 #: templates/static_pages/help.html:349
 msgid "\n"
@@ -2352,11 +2209,12 @@ msgid "\n"
 "          being a registered user will eventually allow you to make submissions to the library.\n"
 "          "
 msgstr "\n"
-"Kayıtlı bir kullanıcı olmak, sizin seçtiğiniz kitapları içeren, kendi 'Benim Pustakalayam' sayfanıza\n"
-"          sahip olmanızı sağlayacak. Buna ek olarak, imleme kolaylığını ayrıca kullanabileceksiniz. Böyle\n"
-"          yaparak, seçtiğiniz herhangi bir kitabı imleyebilir, sayfanıza dahil edebilir,  ve böylece favori\n"
-"          kitaplarınızdan kişiselleştirilmiş bir kütüphane oluşturabilirsiniz (25'e kadar). Ek olarak, Kayıtlı\n"
-"          bir kullanıcı olmak zamanla kütüphaneye önermeler yapmanıza olanak verir.          "
+"          Kayıtlı kullanıcı olmak sizin, seçtiğiniz kitapları içerecek kendi My Pustakalaya sayfanıza\n"
+"          sahip olmanıza izin verir. Bu ek olarak, kitap işaretleme özelliğini kullanabilme \n"
+"          imkanını da sağlar. Bunu kullanarak seçtiğiniz herhangi bir kitabı işaretleyebilir ve \n"
+"          böylece favori kitaplarınızdan (25 adete kadar) oluşan kişisel kütüphanenizi yaratabilirsiniz. \n"
+"          Bununla birlikte kayıtlı kullanıcı olmak size sonunda kütüphaneye teklifler yapma izni verecek.\n"
+"          "
 
 #: templates/static_pages/help.html:365
 msgid "\n"
@@ -2366,11 +2224,11 @@ msgid "\n"
 "          are mandatory. You do not have to be a registered user to use the feedback form.\n"
 "          "
 msgstr "\n"
-"          Geri bildirim bağlantısı \"geri bildirim\" başlığı altında, gezinme çubuğunun sol tarafında\n"
-"          yer alır. Geri bildirim bağlantısı yorumlarınıza, sorularınıza veya dileklerinize \n"
-"          yanıt verecek Pustakaya yöneticilerine iletmeniz konusunda olanak sağlar. Doldurulması gereken\n"
-"          tüm kategoriler (*) simgesi ile işaretlenmiş olup doldurulması zorunludur. Geri bildirim formunu kullanabilmeniz için kayıtlı kullanıcı\n"
-"          olmanıza gerek yoktur.          "
+"          Geri bildirim formu adresi \"geri bildirim\" başlıklıdır, gezinme çubuğunun sol tarafında\n"
+"          bulunur. Geri bildirim formu sizin yorumlarınızı, sorularınızı ya da önerilerinizi bunlara düzgünce \n"
+"          yanıt verecek Pustakaya yöneticilerine göndermeniz konusunda imkan sağlar. Yıldız imi (*) ile\n"
+"          işaretlenmiş tüm kategoriler doldurulması zorunludur. Geri bildirim formunu kullanmak için kayıtlı kullanıcı\n"
+"          olmanız gerekli değildir.          "
 
 #: templates/static_pages/help.html:379
 msgid "\n"
@@ -2379,11 +2237,13 @@ msgid "\n"
 "          activities continuously being added, so please check for our latest activities.\n"
 "          "
 msgstr "\n"
-"E-Paath, OLE-Nepal tarafından geliştirilen ve ders planlarını, sınıf etkinliklerini ve ulusal müfredatın takviye edilmesi amaçlı egzersizleri içeren bir eğitim yazılımıdır. Sürekli olarak eklenen faaliyetler var, bu nedenle lütfen en son faaliyetlerimizi kontrol edin.          "
+"E-Paath, ders planları, sınıf etkinlikleri, ve ulusal müfredatı tamamlamak için çalışmalar içeren\n"
+"          OLE-Nepal tarafından geliştirilmiş eğitici bir uygulamadır. Sürekli olarak eklenen etkinlikler vardır\n"
+"          bu yüzden lütfen son etkinliklerimizi kontrol edin.          "
 
 #: templates/static_pages/sign_up.html:13
 msgid "Register with basic information, Complete your profile and start browsing Pustakalaya"
-msgstr "Temel bilgilerle kayıt olun, profilinizi tamamlayın ve Pustakalaya'da gezinmeye başlayın"
+msgstr "Temel bilgilerinizle kayıt olun, Profilinizi bitirin ve Pustakalaya 'ya göz atmaya başlayın"
 
 #: templates/static_pages/sign_up.html:74
 msgid "\n"
@@ -2391,11 +2251,7 @@ msgid "\n"
 "                        <a href=\"/terms-and-conditions/\" target=\"_blank\">terms</a> and <a href=\"/privacy-policy/\"\n"
 "                      target=\"_blank\">privacy</a>of  Pustakalaya!\n"
 "                        "
-msgstr "\n"
-"                        Aşağıdaki 'Pustakalaya Hesabı Oluştur'a tıklayarak Pustakalaya\n"
-"                        <a href=\"/terms-and-conditions/\" target=\"_blank\">koşullarını</a> ve<a href=\"/privacy-policy/\"\n"
-"                      target=\"_blank\">gizliliğini</a> kabul ediyorsunuz! \n"
-"                        "
+msgstr ""
 
 #: templates/static_pages/sign_up.html:84
 msgid "Create Pustakalaya Account"
