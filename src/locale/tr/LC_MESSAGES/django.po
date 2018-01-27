@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-27 00:30-0500\n"
+"PO-Revision-Date: 2018-01-27 00:41-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1116,7 +1116,7 @@ msgstr "Tanımlayıcılar:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:160
 msgid "illustrators:"
-msgstr ""
+msgstr "göstergeler:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:172
 msgid "Editors:"
@@ -1675,7 +1675,7 @@ msgstr "Size bir e-posta gönderdik. \n"
 #, python-format
 msgid "<strong>Note:</strong> you can still <a href=\"%(email_url)s\">change your e-mail address</a>\n"
 "            ."
-msgstr ""
+msgstr "<strong>Not: </strong> yinede <a href=\"%(email_url)s\"> e-posta adresinizi değiştirebilirsiniz </a>."
 
 #: templates/base.html:14
 msgid "Pustakalaya"
@@ -1828,7 +1828,7 @@ msgstr "E-Pustakalaya nedir?"
 
 #: templates/static_pages/help.html:15
 msgid "What are the major sections"
-msgstr ""
+msgstr "Önemli bölümler nelerdir?"
 
 #: templates/static_pages/help.html:17 templates/static_pages/help.html:139
 msgid "What features does E-Pustakalaya have?"
@@ -1871,7 +1871,7 @@ msgid "\n"
 "          E-Pustakalaya holds collections in Nepali, English and other\n"
 "          languages of Nepal.\n"
 "          "
-msgstr ""
+msgstr "E-Pustakalaya eğitim odaklı tam yazı metinli dökümanlar, kitaplar, görseller, vidyolar, ses dosyaları içeren ethernet veya internet aracılığıyla ulaşılabilen dijital bir kütüphanedir. E-Pustakalaya kullanıcıları kitap okuyabilir, vidyoları seyredebilir, interaktif aktiviteler aracılığı ile öğrenebilir ve ses kliplerini dinleyebilirler. E-Pustakalaya kaynaklarını Nepali, ingilizce ve diğer Nepal dillerinde tutmaktadır."
 
 #: templates/static_pages/help.html:56
 msgid "What are the major sections?"
