@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-26 19:50-0500\n"
+"PO-Revision-Date: 2018-01-26 20:00-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -995,7 +995,7 @@ msgstr "Doc"
 
 #: pustakalaya_apps/document/models.py:66
 msgid "Docx"
-msgstr ""
+msgstr "Docx"
 
 #: pustakalaya_apps/document/models.py:67
 msgid "PDF"
@@ -1003,7 +1003,7 @@ msgstr "PDF"
 
 #: pustakalaya_apps/document/models.py:68
 msgid "Excel"
-msgstr ""
+msgstr "Excel"
 
 #: pustakalaya_apps/document/models.py:69
 msgid "Epub"
@@ -1031,7 +1031,7 @@ msgstr "Belgenin dosya tipi"
 
 #: pustakalaya_apps/document/models.py:94
 msgid "Series"
-msgstr ""
+msgstr "Diziler"
 
 #: pustakalaya_apps/document/models.py:100
 msgid "Education Levels"
@@ -1063,7 +1063,7 @@ msgstr ""
 
 #: pustakalaya_apps/document/models.py:326
 msgid "Identifier Type"
-msgstr ""
+msgstr "Tanımlayıcı Türü"
 
 #: pustakalaya_apps/document/models.py:329
 msgid "ISSN"
