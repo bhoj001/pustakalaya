@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-25 15:11-0500\n"
+"PO-Revision-Date: 2018-01-26 19:30-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -14,57 +14,57 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: pustakalaya\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /master/src/locale/zh/LC_MESSAGES/django.po\n"
+"X-Crowdin-File: /master/src/locale/af/LC_MESSAGES/django.po\n"
 
 #: pustakalaya/forms.py:8
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: pustakalaya/forms.py:12
 msgid "Your name"
-msgstr ""
+msgstr "Votre nom"
 
 #: pustakalaya/forms.py:16 pustakalaya/forms.py:20
 msgid "Email"
-msgstr ""
+msgstr "Courriel"
 
 #: pustakalaya/forms.py:25
 msgid "Country"
-msgstr ""
+msgstr "Pays"
 
 #: pustakalaya/forms.py:31
 msgid "Your country"
-msgstr ""
+msgstr "Votre pays"
 
 #: pustakalaya/forms.py:37 pustakalaya_apps/core/abstract_models.py:48
 #: pustakalaya_apps/core/templates/core/author_detail.html:36
 msgid "Address"
-msgstr ""
+msgstr "Adresse"
 
 #: pustakalaya/forms.py:43
 msgid "Your Address"
-msgstr ""
+msgstr "Votre adresse"
 
 #: pustakalaya/forms.py:49
 msgid "Suggestion"
-msgstr ""
+msgstr "Suggestion"
 
 #: pustakalaya/forms.py:54
 msgid "Your Message"
-msgstr ""
+msgstr "Votre message"
 
 #: pustakalaya/settings/base.py:239 pustakalaya_apps/core/constants.py:20
 msgid "English"
-msgstr ""
+msgstr "Anglais"
 
 #: pustakalaya/settings/base.py:240 pustakalaya_apps/core/constants.py:64
 msgid "Nepali"
-msgstr ""
+msgstr "Népalais"
 
 #: pustakalaya_apps/audio/apps.py:9
 #: pustakalaya_apps/core/abstract_models.py:110
 msgid "Audio"
-msgstr ""
+msgstr "Son"
 
 #: pustakalaya_apps/audio/models.py:29
 msgid "Audio types"
@@ -216,13 +216,13 @@ msgstr ""
 #: pustakalaya_apps/document/templates/document/document_detail.html:310
 #: pustakalaya_apps/video/templates/video/video_detail.html:197
 msgid "languages"
-msgstr ""
+msgstr "langues"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:201
 #: pustakalaya_apps/document/templates/document/document_detail.html:319
 #: pustakalaya_apps/video/templates/video/video_detail.html:206
 msgid "education levels"
-msgstr ""
+msgstr "niveaux d’éducation"
 
 #: pustakalaya_apps/audio/templates/audio/audio_detail.html:212
 #: pustakalaya_apps/document/templates/document/document_detail.html:337
