@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-27 14:21-0500\n"
+"PO-Revision-Date: 2018-01-27 14:31-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -543,7 +543,7 @@ msgstr "İngiliz ingilizcesi"
 
 #: pustakalaya_apps/core/constants.py:23
 msgid "Esperanto"
-msgstr ""
+msgstr "Esperanto dili"
 
 #: pustakalaya_apps/core/constants.py:24
 msgid "Spanish"
@@ -619,7 +619,7 @@ msgstr "Hırvatça"
 
 #: pustakalaya_apps/core/constants.py:42
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Üst Sorbian"
 
 #: pustakalaya_apps/core/constants.py:43
 msgid "Hungarian"
@@ -627,7 +627,7 @@ msgstr "Macarca"
 
 #: pustakalaya_apps/core/constants.py:44
 msgid "Interlingua"
-msgstr ""
+msgstr "Dillerarası"
 
 #: pustakalaya_apps/core/constants.py:45
 msgid "Indonesian"
@@ -695,23 +695,23 @@ msgstr "Moğolca"
 
 #: pustakalaya_apps/core/constants.py:61
 msgid "Marathi"
-msgstr ""
+msgstr "Marathi"
 
 #: pustakalaya_apps/core/constants.py:62
 msgid "Burmese"
-msgstr ""
+msgstr "Birmanya dili"
 
 #: pustakalaya_apps/core/constants.py:63
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "Norveççe Bokmål"
 
 #: pustakalaya_apps/core/constants.py:65
 msgid "Dutch"
-msgstr ""
+msgstr "Flemenkçe"
 
 #: pustakalaya_apps/core/constants.py:66
 msgid "Newari"
-msgstr ""
+msgstr "Newari"
 
 #: pustakalaya_apps/core/constants.py:67
 msgid "Norwegian Nynorsk"
@@ -719,11 +719,11 @@ msgstr ""
 
 #: pustakalaya_apps/core/constants.py:68
 msgid "Ossetic"
-msgstr ""
+msgstr "Osetçe"
 
 #: pustakalaya_apps/core/constants.py:69
 msgid "Punjabi"
-msgstr ""
+msgstr "Pencap dili"
 
 #: pustakalaya_apps/core/constants.py:70
 msgid "Polish"
@@ -921,7 +921,7 @@ msgstr "YARDIM"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/footer.html:13
 msgid "BLOG"
-msgstr ""
+msgstr "BLOG"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/footer.html:18
 msgid "TERMS AND CONDITION"
@@ -929,7 +929,7 @@ msgstr "ŞARTLAR VE KOŞULLAR"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/footer.html:24
 msgid "ole nepal"
-msgstr ""
+msgstr "ole nepal"
 
 #: pustakalaya_apps/dashboard/templates/dashboard/_partials/navbar.html:11
 msgid "pustakalaya dashboard"
@@ -991,15 +991,15 @@ msgstr ""
 
 #: pustakalaya_apps/document/models.py:65
 msgid "Doc"
-msgstr ""
+msgstr "Doc"
 
 #: pustakalaya_apps/document/models.py:66
 msgid "Docx"
-msgstr ""
+msgstr "Docx"
 
 #: pustakalaya_apps/document/models.py:67
 msgid "PDF"
-msgstr ""
+msgstr "Taşınabilir Belge Biçimi"
 
 #: pustakalaya_apps/document/models.py:68
 msgid "Excel"
@@ -1007,7 +1007,7 @@ msgstr "Excel"
 
 #: pustakalaya_apps/document/models.py:69
 msgid "Epub"
-msgstr ""
+msgstr "E-pub"
 
 #: pustakalaya_apps/document/models.py:70
 msgid "Rtf"
@@ -1125,7 +1125,7 @@ msgstr "Editörler:"
 #: pustakalaya_apps/document/templates/document/document_detail.html:263
 #: pustakalaya_apps/video/templates/video/video_detail.html:163
 msgid "Series:"
-msgstr ""
+msgstr "Diziler:"
 
 #: pustakalaya_apps/document/templates/document/document_detail.html:272
 msgid "edition:"
@@ -1257,11 +1257,11 @@ msgstr "Yardım"
 
 #: templates/_partials/footer.html:16
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: templates/_partials/footer.html:31
 msgid "Developed By"
-msgstr ""
+msgstr "Tarafından geliştirildi"
 
 #: templates/_partials/footer.html:32
 msgid "OLE Nepal"
@@ -1576,7 +1576,7 @@ msgstr "Size bir e-posta gönderdik. Birkaç dakika içinde alamazsanız lütfen
 
 #: templates/account/password_reset_from_key.html:8
 msgid "Bad Token"
-msgstr ""
+msgstr "Kötü simge"
 
 #: templates/account/password_reset_from_key.html:12
 #, python-format
@@ -1614,7 +1614,7 @@ msgstr "Oturum Aç"
 
 #: templates/account/signup.html:26 templates/static_pages/sign_up.html:90
 msgid "Log in with"
-msgstr ""
+msgstr "İle giriş yapın"
 
 #: templates/account/signup.html:34 templates/static_pages/sign_up.html:98
 msgid "Already have Pustakalaya account"
@@ -1627,7 +1627,7 @@ msgstr ""
 #: templates/account/signup_closed.html:5
 #: templates/account/signup_closed.html:9
 msgid "Sign Up Closed"
-msgstr ""
+msgstr "Üye olmak kapatıldı"
 
 #: templates/account/signup_closed.html:11
 msgid "We are sorry, but the sign up is currently closed."
@@ -1706,15 +1706,15 @@ msgstr "bölümler"
 
 #: templates/index.html:80 templates/index_new.html:80
 msgid "literatures and Arts"
-msgstr ""
+msgstr "Literatürler ve Sanatlar"
 
 #: templates/index.html:86 templates/index_new.html:86
 msgid "Course Materials"
-msgstr ""
+msgstr "Ders Materyalleri"
 
 #: templates/index.html:92 templates/index_new.html:92
 msgid "Teaching Materials"
-msgstr ""
+msgstr "Öğretici Materyaller"
 
 #: templates/index.html:98 templates/index_new.html:98
 msgid "reference Materials"
