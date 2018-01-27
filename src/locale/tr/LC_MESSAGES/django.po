@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 13:44+0545\n"
-"PO-Revision-Date: 2018-01-26 23:56-0500\n"
+"PO-Revision-Date: 2018-01-27 00:20-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1791,7 +1791,8 @@ msgid "\n\n"
 "                    downloads.\n"
 "                    <br/><br/>\n\n\n"
 "                "
-msgstr ""
+msgstr "\n\n"
+"E-Pustakalaya eğitim odaklı tam yazı metinli dökümanlar, kitaplar, görseller, vidyolar, ses dosyaları, ve etkileşimli eğitimsel yazılımlar içeren ethernet veya internet aracılığıyla ulaşılabilen dijital bir kütüphanedir. OLE Nepal E-Pustakalaya projesini ücretsiz ve açık kaynaklı olarak, yaşa uygun okuma materyallerini vererek, çocukların okuma yeteneklerini geliştirmek ve okullarda okuma kültürü oluşturmak ve öğrencilerin araştırma projeleri ve bağımsız sorgulama alışkanlığını desteklemek amacıyla 2008 yılında geliştirmeye başlamıştır. E-Pustakalaya' nın 2009 yılında kullanıma girmesinden itibaren, öğretmenler ve ayni zamanda diğer yetişkinler tarafından da tarım, sağlık, çevre, yerel teknolojiler ve benzeri birçok alanda çeşitli öğretici kaynaklar ve eğitim materyallerinden geniş bir ölçüde faydalanmıştır.<br/><br/>                "
 
 #: templates/static_pages/feedback.html:11
 msgid "\n"
@@ -1837,7 +1838,7 @@ msgstr "Başka bir sayfadan E-Pustakalaya ana sayfasına nasıl dönerim?"
 
 #: templates/static_pages/help.html:25 templates/static_pages/help.html:335
 msgid "Why can't I set up a collection myself?"
-msgstr ""
+msgstr "Neden kendim bir koleksiyon kuramıyorum?"
 
 #: templates/static_pages/help.html:27 templates/static_pages/help.html:348
 msgid "Why should I become a registered user?"
